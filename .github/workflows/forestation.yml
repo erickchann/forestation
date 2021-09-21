@@ -14,8 +14,8 @@ jobs:
 		steps:
 			- uses: actions/checkout@v2      
 				with:
-				persist-credentials: false
-				fetch-depth: 0
+					persist-credentials: false
+					fetch-depth: 0
 
 			- name: Modify LAST_UPDATED file
 				run: |
@@ -30,9 +30,9 @@ jobs:
 					git add -A
 					git commit -m "Helloo?"
 				
-			- name: GitHub Push
+			- name: Push Back
 				uses: ad-m/github-push-action@v0.5.0
 				with:
-				force: true
-				directory: "."
-				github_token: ${{ secrets.GITHUB_TOKEN }}
+					force: true
+					directory: "."
+					github_token: ${{ secrets.GITHUB_TOKEN }}
