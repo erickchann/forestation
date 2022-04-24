@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Conquer one of your fears</h3>
+  <h3>Think of a new business idea</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/04/2022, 5:59:22 UTC</strong></sub>
+<sub>Last updated at <strong>24/04/2022, 12:19:30 UTC</strong></sub>
