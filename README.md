@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Candy Kaiser<br>Tagline: NorDdeutsches Retro Altbier.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>ASCII silly question, get a silly ANSI.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/04/2022, 18:13:50 UTC</strong></sub>
+<sub>Last updated at <strong>25/04/2022, 12:22:06 UTC</strong></sub>
