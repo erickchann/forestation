@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Eight bytes walk into a bar.<br>The bartender asks, "Can I get you anything?"<br>"Yeah," reply the bytes.<br>"Make us a double."</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Small Batch: Spelt & Honey Saison<br>Tagline: Honey & Spelt Saison</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>25/04/2022, 18:16:43 UTC</strong></sub>
+<sub>Last updated at <strong>26/04/2022, 12:24:29 UTC</strong></sub>
