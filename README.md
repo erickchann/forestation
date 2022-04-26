@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Small Batch: Spelt & Honey Saison<br>Tagline: Honey & Spelt Saison</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Create a cookbook with your favorite recipes</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/04/2022, 12:24:29 UTC</strong></sub>
+<sub>Last updated at <strong>26/04/2022, 18:15:10 UTC</strong></sub>
