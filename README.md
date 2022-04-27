@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"Can I tell you a TCP joke?"<br>"Please tell me a TCP joke."<br>"OK, I'll tell you a TCP joke."</h3>
+  <h3>// This line doesn't actually do anything, but the code stops working when I delete it.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/04/2022, 12:22:23 UTC</strong></sub>
+<sub>Last updated at <strong>27/04/2022, 18:15:37 UTC</strong></sub>
