@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Rearrange and organize your room</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>UDP is better in the COVID era since it avoids unnecessary handshakes.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>29/04/2022, 18:15:07 UTC</strong></sub>
+<sub>Last updated at <strong>30/04/2022, 12:19:54 UTC</strong></sub>
