@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Lichtenstein Pale Ale<br>Tagline: Us-Hopped Rye Pale Ale.</h3>
+  <h3>Small Batch: Dortmunder<br>Tagline: Pale Lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>01/05/2022, 18:14:09 UTC</strong></sub>
+<sub>Last updated at <strong>02/05/2022, 12:22:52 UTC</strong></sub>
