@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Sit in the dark and listen to your favorite music with no distractions</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>AB:25<br>Tagline: Bourbon Barrel-Aged Barley Wine.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>03/05/2022, 18:14:59 UTC</strong></sub>
+<sub>Last updated at <strong>05/05/2022, 12:24:43 UTC</strong></sub>
