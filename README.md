@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Eurotrash<br>Tagline: Belgian Blonde.</h3>
+  <h3>SOS! (May Day!)<br>Tagline: Dry-Hopped Maibock.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/05/2022, 12:23:05 UTC</strong></sub>
+<sub>Last updated at <strong>06/05/2022, 18:15:28 UTC</strong></sub>
