@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>SOS! (May Day!)<br>Tagline: Dry-Hopped Maibock.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Research a topic you're interested in</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/05/2022, 18:15:28 UTC</strong></sub>
+<sub>Last updated at <strong>07/05/2022, 12:20:45 UTC</strong></sub>
