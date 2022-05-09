@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Small Batch: Vermont IPA<br>Tagline: Juicy, Tropical, Citrusy.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Prepare a dish from a foreign culture</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>08/05/2022, 18:14:27 UTC</strong></sub>
+<sub>Last updated at <strong>09/05/2022, 12:23:19 UTC</strong></sub>
