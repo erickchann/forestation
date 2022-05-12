@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Conquer one of your fears</h3>
+  <h3>Have a football scrimmage with some friends</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/05/2022, 18:15:07 UTC</strong></sub>
+<sub>Last updated at <strong>12/05/2022, 12:24:56 UTC</strong></sub>
