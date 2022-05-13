@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Fools Gold Dortmunder Lager<br>Tagline: Lager.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>"Knock, knock."<br>"Who's there?"<br><br>[very long pause]<br><br>"Java."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/05/2022, 12:30:43 UTC</strong></sub>
+<sub>Last updated at <strong>13/05/2022, 18:16:36 UTC</strong></sub>
