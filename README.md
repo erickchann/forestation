@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I've got a really good UDP joke to tell you but I don’t know if you'll get it.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Fools Gold Dortmunder Lager<br>Tagline: Lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/05/2022, 18:17:13 UTC</strong></sub>
+<sub>Last updated at <strong>13/05/2022, 12:30:43 UTC</strong></sub>
