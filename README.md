@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Visit your past teachers</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/05/2022, 18:15:00 UTC</strong></sub>
+<sub>Last updated at <strong>15/05/2022, 12:23:51 UTC</strong></sub>
