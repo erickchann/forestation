@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A guy walks into a bar and asks for 1.4 root beers.<br>The bartender says "I'll have to charge you extra, that's a root beer float".<br>The guy says "In that case, better make it a double."</h3>
+  <h3>A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer.  We don't worry about warnings; we only worry about errors."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/05/2022, 18:16:37 UTC</strong></sub>
+<sub>Last updated at <strong>17/05/2022, 12:26:04 UTC</strong></sub>
