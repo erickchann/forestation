@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hello My Name Is Zé (w/ 2Cabeças)<br>Tagline: Passionfruit IPA - 2Cabecas Collab.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Do yoga</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>20/05/2022, 12:24:08 UTC</strong></sub>
+<sub>Last updated at <strong>20/05/2022, 18:15:33 UTC</strong></sub>
