@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Libertine Porter<br>Tagline: Dry-Hopped Aggressive Porter.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>I'm reading a book about anti-gravity. It's impossible to put down!</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>22/05/2022, 18:14:24 UTC</strong></sub>
+<sub>Last updated at <strong>23/05/2022, 12:23:51 UTC</strong></sub>
