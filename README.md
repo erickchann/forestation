@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn how to use an Arduino</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>I have a joke about Stack Overflow, but you would say it's a duplicate.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/05/2022, 18:16:52 UTC</strong></sub>
+<sub>Last updated at <strong>25/05/2022, 12:25:42 UTC</strong></sub>
