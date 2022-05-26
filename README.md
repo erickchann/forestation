@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Have a great weekend!<br>I hope your code behaves the same on Monday as it did on Friday.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn Kotlin</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/05/2022, 12:24:31 UTC</strong></sub>
+<sub>Last updated at <strong>26/05/2022, 18:16:07 UTC</strong></sub>
