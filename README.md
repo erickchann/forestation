@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Catch up on world news</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Hoppy Christmas<br>Tagline: Simcoe Single-Hop India Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/05/2022, 18:14:34 UTC</strong></sub>
+<sub>Last updated at <strong>29/05/2022, 12:21:12 UTC</strong></sub>
