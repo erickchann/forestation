@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>AB:03<br>Tagline: Barrel-Aged Imperial Ale.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>"Can I tell you a TCP joke?"<br>"Please tell me a TCP joke."<br>"OK, I'll tell you a TCP joke."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/06/2022, 18:15:37 UTC</strong></sub>
+<sub>Last updated at <strong>04/06/2022, 18:13:15 UTC</strong></sub>
