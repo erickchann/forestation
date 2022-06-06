@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hardcore IPA<br>Tagline: Explicit Imperial Ale. Citrusy. Resinous. Intense.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>There are only 10 kinds of people in this world: those who know binary and those who don't.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/06/2022, 12:19:35 UTC</strong></sub>
+<sub>Last updated at <strong>06/06/2022, 12:24:19 UTC</strong></sub>
