@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>#Mashtag 2014<br>Tagline: Democratic Imperial Red Ale.</h3>
+  <h3>Jet Black Heart<br>Tagline: Oatmeal Milk Stout. Dark. Roasty. Velvety.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/06/2022, 12:24:37 UTC</strong></sub>
+<sub>Last updated at <strong>09/06/2022, 18:14:46 UTC</strong></sub>
