@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Eight bytes walk into a bar.<br>The bartender asks, "Can I get you anything?"<br>"Yeah," reply the bytes.<br>"Make us a double."</h3>
+  <h3>How do you tell HTML from HTML5?<br>- Try it out in Internet Explorer<br>- Did it work?<br>- No?<br>- It's HTML5.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/06/2022, 12:18:56 UTC</strong></sub>
+<sub>Last updated at <strong>13/06/2022, 18:17:15 UTC</strong></sub>
