@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.</h3>
+  <h3>I've got a really good UDP joke to tell you but I don’t know if you'll get it.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/06/2022, 12:23:28 UTC</strong></sub>
+<sub>Last updated at <strong>14/06/2022, 18:15:06 UTC</strong></sub>
