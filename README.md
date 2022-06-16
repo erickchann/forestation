@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Debugging: Removing the needles from the haystack.</h3>
+  <h3>"We messed up the keming again guys."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>15/06/2022, 12:23:09 UTC</strong></sub>
+<sub>Last updated at <strong>16/06/2022, 18:14:53 UTC</strong></sub>
