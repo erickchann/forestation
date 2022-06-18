@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>#Mashtag 2015<br>Tagline: US Hopped Black Barley Wine.</h3>
+  <h3>Prototype 27<br>Tagline: Vibrant Smoky Pink IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/06/2022, 12:19:56 UTC</strong></sub>
+<sub>Last updated at <strong>18/06/2022, 18:14:05 UTC</strong></sub>
