@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Semi Skimmed Occultist<br>Tagline: Oatmeal Milk Stout.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer.  We don't worry about warnings; we only worry about errors."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/06/2022, 12:24:31 UTC</strong></sub>
+<sub>Last updated at <strong>24/06/2022, 18:15:41 UTC</strong></sub>
