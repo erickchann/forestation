@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Restorative Beverage For Invalids And Convalescents<br>Tagline: An Extract Taken From "A Treatise on Food and Diet" By Dr Jonathan Pereira, 1843.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/06/2022, 12:26:37 UTC</strong></sub>
+<sub>Last updated at <strong>27/06/2022, 18:17:01 UTC</strong></sub>
