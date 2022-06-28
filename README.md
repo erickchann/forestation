@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Restorative Beverage For Invalids And Convalescents<br>Tagline: An Extract Taken From "A Treatise on Food and Diet" By Dr Jonathan Pereira, 1843.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/06/2022, 18:17:01 UTC</strong></sub>
+<sub>Last updated at <strong>28/06/2022, 12:24:54 UTC</strong></sub>
