@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.</h3>
+  <h3>Debugging is like being the detective in a crime movie where you're also the murderer at the same time.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/06/2022, 12:24:54 UTC</strong></sub>
+<sub>Last updated at <strong>29/06/2022, 12:24:13 UTC</strong></sub>
