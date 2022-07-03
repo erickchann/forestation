@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Interstate Vienna Lager.<br>Tagline: Vienna Lager.</h3>
+  <h3>Nuns With Guns<br>Tagline: Dry-Hopped Lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/07/2022, 18:13:32 UTC</strong></sub>
+<sub>Last updated at <strong>03/07/2022, 12:20:17 UTC</strong></sub>
