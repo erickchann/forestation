@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Self Assembly Pope<br>Tagline: Coconut Vanilla Porter</h3>
+  <h3>Jinx Pale Ale<br>Tagline: American Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/07/2022, 18:25:29 UTC</strong></sub>
+<sub>Last updated at <strong>12/07/2022, 18:16:50 UTC</strong></sub>
