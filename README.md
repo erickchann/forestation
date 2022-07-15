@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>ASCII silly question, get a silly ANSI.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Waimea - IPA Is Dead<br>Tagline: Single Hop India Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/07/2022, 18:14:26 UTC</strong></sub>
+<sub>Last updated at <strong>15/07/2022, 18:15:35 UTC</strong></sub>
