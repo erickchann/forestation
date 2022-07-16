@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Waimea - IPA Is Dead<br>Tagline: Single Hop India Pale Ale.</h3>
+  <h3>King of Eights<br>Tagline: East Coast IPA</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>15/07/2022, 18:15:35 UTC</strong></sub>
+<sub>Last updated at <strong>16/07/2022, 12:19:36 UTC</strong></sub>
