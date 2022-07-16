@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>King of Eights<br>Tagline: East Coast IPA</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>There are only 10 kinds of people in this world: those who know binary and those who don't.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/07/2022, 12:19:36 UTC</strong></sub>
+<sub>Last updated at <strong>16/07/2022, 18:14:14 UTC</strong></sub>
