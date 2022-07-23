@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</h3>
+  <h3>A horse walks into a bar.<br>"Hey", the Bartender says.<br>"Sure", the horse replies.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>23/07/2022, 12:21:34 UTC</strong></sub>
+<sub>Last updated at <strong>23/07/2022, 18:14:22 UTC</strong></sub>
