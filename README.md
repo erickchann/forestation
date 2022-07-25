@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.</h3>
+  <h3>UDP is better in the COVID era since it avoids unnecessary handshakes.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/07/2022, 12:21:59 UTC</strong></sub>
+<sub>Last updated at <strong>25/07/2022, 18:15:26 UTC</strong></sub>
