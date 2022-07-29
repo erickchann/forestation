@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Dog Wired (w/8 Wired)<br>Tagline: New Zealand Imperial Pilsner.</h3>
+  <h3>Casino Rye Ale<br>Tagline: Life's a Gamble</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/07/2022, 18:17:02 UTC</strong></sub>
+<sub>Last updated at <strong>29/07/2022, 12:27:34 UTC</strong></sub>
