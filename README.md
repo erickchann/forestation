@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Tropic Thunder<br>Tagline: Island-Hopping Stout.</h3>
+  <h3>Nanny State<br>Tagline: Alcohol Free Hoppy Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>29/07/2022, 18:15:59 UTC</strong></sub>
+<sub>Last updated at <strong>30/07/2022, 12:20:11 UTC</strong></sub>
