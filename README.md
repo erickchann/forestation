@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Kamikaze Knitting Club<br>Tagline: Maple Stout</h3>
+  <h3>Blitz Berliner Weisse<br>Tagline: Berliner Fruit Beer.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/08/2022, 18:15:28 UTC</strong></sub>
+<sub>Last updated at <strong>03/08/2022, 18:16:06 UTC</strong></sub>
