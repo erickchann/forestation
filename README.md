@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hop Shot<br>Tagline: Quadruple India Pale Ale</h3>
+  <h3>Hype<br>Tagline: New Zealand Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>04/08/2022, 18:15:22 UTC</strong></sub>
+<sub>Last updated at <strong>05/08/2022, 12:24:50 UTC</strong></sub>
