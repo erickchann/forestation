@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"Can I tell you a TCP joke?"<br>"Please tell me a TCP joke."<br>"OK, I'll tell you a TCP joke."</h3>
+  <h3>Two C strings walk into a bar.<br>The bartender asks "What can I get ya?"<br>The first string says "I'll have a gin and tonic."<br>The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"<br>The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/08/2022, 18:15:55 UTC</strong></sub>
+<sub>Last updated at <strong>06/08/2022, 18:14:31 UTC</strong></sub>
