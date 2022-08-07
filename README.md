@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hop Shot<br>Tagline: Quadruple India Pale Ale</h3>
+  <h3>Hoppy Christmas<br>Tagline: Simcoe Single-Hop India Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>07/08/2022, 12:20:43 UTC</strong></sub>
+<sub>Last updated at <strong>07/08/2022, 18:14:41 UTC</strong></sub>
