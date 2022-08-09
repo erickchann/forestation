@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>There are only 10 kinds of people in this world: those who know binary and those who don't.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Libertine Black Ale<br>Tagline: The New Black. Roasty. Hoppy. Fruity.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>08/08/2022, 18:16:26 UTC</strong></sub>
+<sub>Last updated at <strong>09/08/2022, 12:28:19 UTC</strong></sub>
