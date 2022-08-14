@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"</h3>
+  <h3>Debugging is like being the detective in a crime movie where you're also the murderer at the same time.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/08/2022, 18:14:03 UTC</strong></sub>
+<sub>Last updated at <strong>14/08/2022, 12:21:38 UTC</strong></sub>
