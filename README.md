@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Debugging is like being the detective in a crime movie where you're also the murderer at the same time.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Indie Pale Ale<br>Tagline: True Independent Craft.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/08/2022, 12:21:38 UTC</strong></sub>
+<sub>Last updated at <strong>15/08/2022, 18:16:37 UTC</strong></sub>
