@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>This. Is. Lager<br>Tagline: 21st Century Pilsner. Sharp. Robust. Honest.</h3>
+  <h3>Buzz<br>Tagline: A Real Bitter Experience.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/08/2022, 12:21:47 UTC</strong></sub>
+<sub>Last updated at <strong>16/08/2022, 18:18:21 UTC</strong></sub>
