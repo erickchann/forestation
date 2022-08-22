@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hinterland<br>Tagline: A Most Beguiling Brew.</h3>
+  <h3>Chaos Theory<br>Tagline: Predictably Random IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>21/08/2022, 18:14:39 UTC</strong></sub>
+<sub>Last updated at <strong>22/08/2022, 12:27:35 UTC</strong></sub>
