@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Pump Action Poet<br>Tagline: Stone Fruit IPA.</h3>
+  <h3>Blitz Berliner Weisse<br>Tagline: Berliner Fruit Beer.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>25/08/2022, 12:26:48 UTC</strong></sub>
+<sub>Last updated at <strong>26/08/2022, 12:26:11 UTC</strong></sub>
