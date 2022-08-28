@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>// This line doesn't actually do anything, but the code stops working when I delete it.</h3>
+  <h3>The generation of random numbers is too important to be left to chance.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/08/2022, 12:21:25 UTC</strong></sub>
+<sub>Last updated at <strong>28/08/2022, 18:15:02 UTC</strong></sub>
