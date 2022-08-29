@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>The generation of random numbers is too important to be left to chance.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Dead Metaphor<br>Tagline: Scottish Breakfast Stout.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/08/2022, 18:15:02 UTC</strong></sub>
+<sub>Last updated at <strong>29/08/2022, 12:26:47 UTC</strong></sub>
