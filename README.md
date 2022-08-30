@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Dead Metaphor<br>Tagline: Scottish Breakfast Stout.</h3>
+  <h3>Slot Machine<br>Tagline: Red Rye IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>29/08/2022, 12:26:47 UTC</strong></sub>
+<sub>Last updated at <strong>30/08/2022, 12:27:46 UTC</strong></sub>
