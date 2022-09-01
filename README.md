@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"</h3>
+  <h3>There are only 10 kinds of people in this world: those who know binary and those who don't.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>31/08/2022, 18:16:55 UTC</strong></sub>
+<sub>Last updated at <strong>01/09/2022, 12:24:51 UTC</strong></sub>
