@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>There are only 10 kinds of people in this world: those who know binary and those who don't.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Bowman's Beard - B-Sides<br>Tagline: English Barley Wine.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>01/09/2022, 12:24:51 UTC</strong></sub>
+<sub>Last updated at <strong>02/09/2022, 12:26:26 UTC</strong></sub>
