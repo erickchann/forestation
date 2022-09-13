@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hopped-Up Brown Ale - Prototype Challenge<br>Tagline: Malt Hop Balance.</h3>
+  <h3>Neverland<br>Tagline: India Pale Lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/09/2022, 18:17:23 UTC</strong></sub>
+<sub>Last updated at <strong>13/09/2022, 12:30:09 UTC</strong></sub>
