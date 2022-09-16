@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hoppy Christmas<br>Tagline: Simcoe Single-Hop India Pale Ale.</h3>
+  <h3>White Noise<br>Tagline: White IPA with Motueka.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/09/2022, 12:26:15 UTC</strong></sub>
+<sub>Last updated at <strong>16/09/2022, 18:18:04 UTC</strong></sub>
