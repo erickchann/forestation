@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>White Noise<br>Tagline: White IPA with Motueka.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/09/2022, 18:18:04 UTC</strong></sub>
+<sub>Last updated at <strong>17/09/2022, 18:16:17 UTC</strong></sub>
