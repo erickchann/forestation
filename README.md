@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I was struggling to figure out how lightning works, but then it struck me.</h3>
+  <h3>If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/09/2022, 12:30:36 UTC</strong></sub>
+<sub>Last updated at <strong>19/09/2022, 18:20:05 UTC</strong></sub>
