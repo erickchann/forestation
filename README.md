@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>AB:04<br>Tagline: Imperial Stout With Coffee, Loads Of Cocoa And Chilli.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Write a short story</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>22/09/2022, 18:16:38 UTC</strong></sub>
+<sub>Last updated at <strong>23/09/2022, 12:28:30 UTC</strong></sub>
