@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn to write with your nondominant hand</h3>
+  <h3>Watch a movie you'd never usually watch</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>25/09/2022, 12:25:44 UTC</strong></sub>
+<sub>Last updated at <strong>25/09/2022, 18:17:27 UTC</strong></sub>
