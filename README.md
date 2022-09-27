@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Shipwrecker Circus (w/ Oskar Blues)<br>Tagline: American Barley Wine - Oskar Blues Collab.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Listen to a new podcast</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/09/2022, 12:30:59 UTC</strong></sub>
+<sub>Last updated at <strong>27/09/2022, 18:22:42 UTC</strong></sub>
