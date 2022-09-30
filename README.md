@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Have a paper airplane contest with some friends</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Prototype Helles<br>Tagline: Laid-Back Bavarian Classic.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>29/09/2022, 18:21:11 UTC</strong></sub>
+<sub>Last updated at <strong>30/09/2022, 12:31:57 UTC</strong></sub>
