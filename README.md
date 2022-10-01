@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Compliment someone</h3>
+  <h3>Go to a local thrift shop</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>30/09/2022, 18:20:52 UTC</strong></sub>
+<sub>Last updated at <strong>01/10/2022, 12:27:22 UTC</strong></sub>
