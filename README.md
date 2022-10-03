@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn how to make a website</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Indie Pale Ale<br>Tagline: True Independent Craft.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/10/2022, 18:17:14 UTC</strong></sub>
+<sub>Last updated at <strong>03/10/2022, 12:32:11 UTC</strong></sub>
