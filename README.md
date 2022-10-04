@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Stereo Wolf Stout - Prototype Challenge<br>Tagline: Dark Audio Storm.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Go for a walk</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>04/10/2022, 12:32:17 UTC</strong></sub>
+<sub>Last updated at <strong>04/10/2022, 18:26:00 UTC</strong></sub>
