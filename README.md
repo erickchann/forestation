@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Make homemade ice cream</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Paradox Islay 2.0<br>Tagline: Islay Cask-Aged Imperial Stout.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/10/2022, 12:29:54 UTC</strong></sub>
+<sub>Last updated at <strong>05/10/2022, 18:28:31 UTC</strong></sub>
