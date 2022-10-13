@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Hold a video game tournament with some friends</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>UDP is better in the COVID era since it avoids unnecessary handshakes.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/10/2022, 18:23:08 UTC</strong></sub>
+<sub>Last updated at <strong>13/10/2022, 12:31:44 UTC</strong></sub>
