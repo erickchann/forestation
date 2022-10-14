@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Whisky Sour - B-Sides<br>Tagline: Pilot Brew - Deconstructed Whisky Sour.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/10/2022, 18:24:13 UTC</strong></sub>
+<sub>Last updated at <strong>14/10/2022, 12:30:53 UTC</strong></sub>
