@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Whisky Sour - B-Sides<br>Tagline: Pilot Brew - Deconstructed Whisky Sour.</h3>
+  <h3>Small Batch: Dortmunder<br>Tagline: Pale Lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/10/2022, 12:30:53 UTC</strong></sub>
+<sub>Last updated at <strong>14/10/2022, 18:19:25 UTC</strong></sub>
