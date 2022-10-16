@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Elvis Juice V2.0 - Prototype Challenge<br>Tagline: Citrus Infused IPA.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>I was struggling to figure out how lightning works, but then it struck me.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>15/10/2022, 18:17:16 UTC</strong></sub>
+<sub>Last updated at <strong>16/10/2022, 12:27:43 UTC</strong></sub>
