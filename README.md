@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Start a webinar on a topic of your choice</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>I was struggling to figure out how lightning works, but then it struck me.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/10/2022, 18:17:35 UTC</strong></sub>
+<sub>Last updated at <strong>17/10/2022, 12:33:10 UTC</strong></sub>
