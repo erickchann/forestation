@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Knock knock.<br>Who's there?<br>Recursion.<br>Recursion who?<br>Knock knock.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Raspberry Popsicle Parade<br>Tagline: Raspberry Berliner Weisse.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/10/2022, 18:26:48 UTC</strong></sub>
+<sub>Last updated at <strong>19/10/2022, 12:32:22 UTC</strong></sub>
