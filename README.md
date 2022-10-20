@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Do something nice for someone you care about</h3>
+  <h3>Go to a concert with some friends</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>20/10/2022, 12:31:53 UTC</strong></sub>
+<sub>Last updated at <strong>20/10/2022, 18:31:12 UTC</strong></sub>
