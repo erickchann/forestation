@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Paradox Rye<br>Tagline: Rye Whisky Barrel-Aged Imperial Stout.</h3>
+  <h3>Ella - IPA Is Dead<br>Tagline: Single Hop India Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>21/10/2022, 18:21:48 UTC</strong></sub>
+<sub>Last updated at <strong>22/10/2022, 12:27:51 UTC</strong></sub>
