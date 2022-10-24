@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A horse walks into a bar.<br>"Hey", the Bartender says.<br>"Sure", the horse replies.</h3>
+  <h3>I'm reading a book about anti-gravity. It's impossible to put down!</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>23/10/2022, 18:18:26 UTC</strong></sub>
+<sub>Last updated at <strong>24/10/2022, 12:31:35 UTC</strong></sub>
