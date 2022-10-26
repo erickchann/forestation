@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A guy walks into a bar and asks for 1.4 root beers.<br>The bartender says "I'll have to charge you extra, that's a root beer float".<br>The guy says "In that case, better make it a double."</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Manic Mango<br>Tagline: Mango IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/10/2022, 12:31:28 UTC</strong></sub>
+<sub>Last updated at <strong>26/10/2022, 18:17:08 UTC</strong></sub>
