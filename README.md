@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Manic Mango<br>Tagline: Mango IPA.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Go stargazing</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/10/2022, 18:17:08 UTC</strong></sub>
+<sub>Last updated at <strong>27/10/2022, 12:30:37 UTC</strong></sub>
