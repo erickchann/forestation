@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Today, my son asked "Can I have a book mark?" and I burst into tears.<br>11 years old and he still doesn't know my name is Brian.</h3>
+  <h3>Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/10/2022, 18:17:36 UTC</strong></sub>
+<sub>Last updated at <strong>29/10/2022, 12:23:58 UTC</strong></sub>
