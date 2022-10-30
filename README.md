@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A horse walks into a bar.<br>"Hey", the Bartender says.<br>"Sure", the horse replies.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>White Noise<br>Tagline: White IPA with Motueka.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>30/10/2022, 12:26:00 UTC</strong></sub>
+<sub>Last updated at <strong>30/10/2022, 18:17:07 UTC</strong></sub>
