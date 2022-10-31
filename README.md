@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>White Noise<br>Tagline: White IPA with Motueka.</h3>
+  <h3>Mango Gose - B-Sides<br>Tagline: Hoppy Mango Gose.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>30/10/2022, 18:17:07 UTC</strong></sub>
+<sub>Last updated at <strong>31/10/2022, 12:30:15 UTC</strong></sub>
