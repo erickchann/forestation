@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Mango Gose - B-Sides<br>Tagline: Hoppy Mango Gose.</h3>
+  <h3>Moshi Moshi 15<br>Tagline: American Pale Ale Birthday Beer.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>31/10/2022, 12:30:15 UTC</strong></sub>
+<sub>Last updated at <strong>31/10/2022, 18:19:45 UTC</strong></sub>
