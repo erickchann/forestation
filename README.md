@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Volunteer at a local animal shelter</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>"We messed up the keming again guys."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>03/11/2022, 12:26:22 UTC</strong></sub>
+<sub>Last updated at <strong>03/11/2022, 18:20:46 UTC</strong></sub>
