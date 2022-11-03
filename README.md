@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Moshi Moshi 15<br>Tagline: American Pale Ale Birthday Beer.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Volunteer at a local animal shelter</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/11/2022, 18:17:14 UTC</strong></sub>
+<sub>Last updated at <strong>03/11/2022, 12:26:22 UTC</strong></sub>
