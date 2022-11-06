@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Casino Rye Ale<br>Tagline: Life's a Gamble</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn how to beatbox</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/11/2022, 12:23:22 UTC</strong></sub>
+<sub>Last updated at <strong>06/11/2022, 18:15:13 UTC</strong></sub>
