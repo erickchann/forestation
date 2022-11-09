@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Plant a tree</h3>
+  <h3>Fill out a basketball bracket</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/11/2022, 12:30:13 UTC</strong></sub>
+<sub>Last updated at <strong>09/11/2022, 18:16:10 UTC</strong></sub>
