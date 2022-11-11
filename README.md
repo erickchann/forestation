@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>#Mashtag 2014<br>Tagline: Democratic Imperial Red Ale.</h3>
+  <h3>Bourbon Baby<br>Tagline: Barrel-Aged Scotch Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/11/2022, 12:28:43 UTC</strong></sub>
+<sub>Last updated at <strong>11/11/2022, 18:16:34 UTC</strong></sub>
