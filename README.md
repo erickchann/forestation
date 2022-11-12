@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Bourbon Baby<br>Tagline: Barrel-Aged Scotch Ale.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Write a poem</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/11/2022, 18:16:34 UTC</strong></sub>
+<sub>Last updated at <strong>12/11/2022, 12:22:36 UTC</strong></sub>
