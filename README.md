@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Oysters hate to give away their pearls because they are shellfish.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Write a note of appreciation to someone</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/11/2022, 18:14:51 UTC</strong></sub>
+<sub>Last updated at <strong>14/11/2022, 12:29:37 UTC</strong></sub>
