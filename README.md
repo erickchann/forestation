@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>There are only 10 kinds of people in this world: those who know binary and those who don't.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Improve your touch typing</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/11/2022, 18:15:02 UTC</strong></sub>
+<sub>Last updated at <strong>17/11/2022, 12:26:15 UTC</strong></sub>
