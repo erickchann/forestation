@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn origami</h3>
+  <h3>Learn Express.js</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>20/11/2022, 12:21:13 UTC</strong></sub>
+<sub>Last updated at <strong>20/11/2022, 18:13:57 UTC</strong></sub>
