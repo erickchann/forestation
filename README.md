@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"We messed up the keming again guys."</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Atlantic IPA Ale<br>Tagline: IPA Of Yesteryear.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>21/11/2022, 12:24:24 UTC</strong></sub>
+<sub>Last updated at <strong>21/11/2022, 18:15:20 UTC</strong></sub>
