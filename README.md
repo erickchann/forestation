@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Start a daily journal</h3>
+  <h3>Play a volleyball match with some friends</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>22/11/2022, 18:15:14 UTC</strong></sub>
+<sub>Last updated at <strong>23/11/2022, 12:23:24 UTC</strong></sub>
