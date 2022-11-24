@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Configure two-factor authentication on your accounts</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Skull Candy<br>Tagline: Pacific Hopped Amber Bitter.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>23/11/2022, 18:13:59 UTC</strong></sub>
+<sub>Last updated at <strong>24/11/2022, 12:23:46 UTC</strong></sub>
