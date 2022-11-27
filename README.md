@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Native Son<br>Tagline: West Coast IPA.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>ASCII silly question, get a silly ANSI.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/11/2022, 18:13:02 UTC</strong></sub>
+<sub>Last updated at <strong>27/11/2022, 12:19:57 UTC</strong></sub>
