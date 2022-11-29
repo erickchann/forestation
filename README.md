@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Tactical Nuclear Penguin<br>Tagline: Uber Imperial Stout.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Buy a new house decoration</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/11/2022, 18:14:35 UTC</strong></sub>
+<sub>Last updated at <strong>29/11/2022, 12:22:58 UTC</strong></sub>
