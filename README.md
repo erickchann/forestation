@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Find a charity and donate to it</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>A SQL statement walks into a bar and sees two tables.<br>It approaches, and asks "may I join you?"</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>30/11/2022, 12:23:46 UTC</strong></sub>
+<sub>Last updated at <strong>30/11/2022, 18:15:02 UTC</strong></sub>
