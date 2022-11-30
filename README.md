@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Sit in the dark and listen to your favorite music with no distractions</h3>
+  <h3>Find a charity and donate to it</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>29/11/2022, 18:14:14 UTC</strong></sub>
+<sub>Last updated at <strong>30/11/2022, 12:23:46 UTC</strong></sub>
