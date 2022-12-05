@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Hold a video game tournament with some friends</h3>
+  <h3>Start a book you've never gotten around to reading</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/12/2022, 12:21:17 UTC</strong></sub>
+<sub>Last updated at <strong>05/12/2022, 18:13:38 UTC</strong></sub>
