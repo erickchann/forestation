@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Dog Fight (w/ Flying Dog)<br>Tagline: Rye IPA - Flying Dog Collab.</h3>
+  <h3>Nine To Five Wizard<br>Tagline: India Pale Weizen.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>08/12/2022, 12:20:57 UTC</strong></sub>
+<sub>Last updated at <strong>08/12/2022, 18:13:24 UTC</strong></sub>
