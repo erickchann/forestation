@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Draw something interesting</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Trashy Blonde<br>Tagline: You Know You Shouldn't</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/12/2022, 18:13:15 UTC</strong></sub>
+<sub>Last updated at <strong>10/12/2022, 12:18:59 UTC</strong></sub>
