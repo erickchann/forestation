@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I was reading a great book about an immortal dog the other day. It was impossible to put down.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn Kotlin</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/12/2022, 18:13:49 UTC</strong></sub>
+<sub>Last updated at <strong>15/12/2022, 12:21:06 UTC</strong></sub>
