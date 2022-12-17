@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Beatnik<br>Tagline: Imperial Red Ale</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/12/2022, 18:12:53 UTC</strong></sub>
+<sub>Last updated at <strong>17/12/2022, 12:17:22 UTC</strong></sub>
