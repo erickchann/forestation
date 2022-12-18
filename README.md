@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hello My Name Is Aune<br>Tagline: Stawberry Double IPA.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn how to make an Alexa skill</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/12/2022, 12:17:59 UTC</strong></sub>
+<sub>Last updated at <strong>18/12/2022, 18:11:31 UTC</strong></sub>
