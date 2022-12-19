@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Santa Paws<br>Tagline: Christmas Scoth Ale.</h3>
+  <h3>Alpha Dog<br>Tagline: Existential Red Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/12/2022, 12:20:06 UTC</strong></sub>
+<sub>Last updated at <strong>19/12/2022, 18:13:37 UTC</strong></sub>
