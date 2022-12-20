@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Alpha Dog<br>Tagline: Existential Red Ale.</h3>
+  <h3>Make Earth Great Again<br>Tagline: Cloudberry Saison.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/12/2022, 18:13:37 UTC</strong></sub>
+<sub>Last updated at <strong>20/12/2022, 12:19:59 UTC</strong></sub>
