@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Black Jacques<br>Tagline: Red Wine Barrel-Aged Imperial Black Saison.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Make tie dye shirts</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>21/12/2022, 12:19:50 UTC</strong></sub>
+<sub>Last updated at <strong>21/12/2022, 18:12:53 UTC</strong></sub>
