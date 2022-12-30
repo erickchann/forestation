@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>The six stages of debugging:<br>1. That can't happen.<br>2. That doesn't happen on my machine.<br>3. That shouldn't happen.<br>4. Why does that happen?<br>5. Oh, I see.<br>6. How did that ever work?</h3>
+  <h3>Knock knock.<br>Who's there?<br>Recursion.<br>Recursion who?<br>Knock knock.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>29/12/2022, 18:12:47 UTC</strong></sub>
+<sub>Last updated at <strong>30/12/2022, 12:18:32 UTC</strong></sub>
