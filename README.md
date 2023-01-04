@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Research a topic you're interested in</h3>
+  <h3>Organize your dresser</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>03/01/2023, 18:13:00 UTC</strong></sub>
+<sub>Last updated at <strong>04/01/2023, 12:20:32 UTC</strong></sub>
