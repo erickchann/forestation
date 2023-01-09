@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"Honey, go to the store and buy some eggs."<br>"OK."<br>"Oh and while you're there, get some milk."<br>He never returned.</h3>
+  <h3>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/01/2023, 12:21:17 UTC</strong></sub>
+<sub>Last updated at <strong>09/01/2023, 18:14:01 UTC</strong></sub>
