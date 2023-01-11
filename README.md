@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"We messed up the keming again guys."</h3>
+  <h3>Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/01/2023, 12:21:22 UTC</strong></sub>
+<sub>Last updated at <strong>11/01/2023, 18:16:23 UTC</strong></sub>
