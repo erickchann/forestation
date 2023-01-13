@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>UDP is better in the COVID era since it avoids unnecessary handshakes.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Kingpin<br>Tagline: 21st century lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/01/2023, 12:20:20 UTC</strong></sub>
+<sub>Last updated at <strong>13/01/2023, 18:12:59 UTC</strong></sub>
