@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Kingpin<br>Tagline: 21st century lager.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Fill out a basketball bracket</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/01/2023, 18:12:59 UTC</strong></sub>
+<sub>Last updated at <strong>14/01/2023, 12:17:48 UTC</strong></sub>
