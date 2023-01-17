@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>AB:09<br>Tagline: Cranachan Imperial Stout.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>"We messed up the keming again guys."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/01/2023, 18:13:04 UTC</strong></sub>
+<sub>Last updated at <strong>17/01/2023, 12:22:15 UTC</strong></sub>
