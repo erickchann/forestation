@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Tokyo Rising Sun - Lowland<br>Tagline: A Beautiful Accident.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Algorithm: A word used by programmers when they don't want to explain how their code works.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/01/2023, 12:20:22 UTC</strong></sub>
+<sub>Last updated at <strong>18/01/2023, 18:12:58 UTC</strong></sub>
