@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Algorithm: A word used by programmers when they don't want to explain how their code works.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Start a daily journal</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/01/2023, 18:12:58 UTC</strong></sub>
+<sub>Last updated at <strong>19/01/2023, 12:21:34 UTC</strong></sub>
