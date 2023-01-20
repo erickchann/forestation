@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hoppy Saison - B-Sides<br>Tagline: Hop Yeast Synergy.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Take a bubble bath</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/01/2023, 18:14:00 UTC</strong></sub>
+<sub>Last updated at <strong>20/01/2023, 12:21:24 UTC</strong></sub>
