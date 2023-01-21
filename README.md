@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Plant a tree</h3>
+  <h3>Draw and color a Mandala</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>20/01/2023, 18:13:10 UTC</strong></sub>
+<sub>Last updated at <strong>21/01/2023, 12:18:12 UTC</strong></sub>
