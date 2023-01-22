@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Small Batch: Vermont IPA<br>Tagline: Juicy, Tropical, Citrusy.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>22/01/2023, 12:18:27 UTC</strong></sub>
+<sub>Last updated at <strong>22/01/2023, 18:12:30 UTC</strong></sub>
