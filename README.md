@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>AB:12<br>Tagline: Imperial Black Belgian Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/01/2023, 12:21:31 UTC</strong></sub>
+<sub>Last updated at <strong>24/01/2023, 18:13:08 UTC</strong></sub>
