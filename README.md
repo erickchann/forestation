@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Have a bonfire with your close friends</h3>
+  <h3>Go for a run</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/01/2023, 12:19:41 UTC</strong></sub>
+<sub>Last updated at <strong>27/01/2023, 18:13:03 UTC</strong></sub>
