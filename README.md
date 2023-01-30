@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Clean out your garage</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Alpha Pop<br>Tagline: Hoppy Rye Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>30/01/2023, 12:21:02 UTC</strong></sub>
+<sub>Last updated at <strong>30/01/2023, 18:13:17 UTC</strong></sub>
