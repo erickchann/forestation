@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"Can I tell you a TCP joke?"<br>"Please tell me a TCP joke."<br>"OK, I'll tell you a TCP joke."</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Black Eyed King Imp - Vietnamese Coffee Edition<br>Tagline: Vietnamese Coffee Edition.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>31/01/2023, 12:20:41 UTC</strong></sub>
+<sub>Last updated at <strong>31/01/2023, 18:13:06 UTC</strong></sub>
