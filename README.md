@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.</h3>
+  <h3>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>03/02/2023, 12:20:14 UTC</strong></sub>
+<sub>Last updated at <strong>03/02/2023, 18:13:07 UTC</strong></sub>
