@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Nine To Five Wizard<br>Tagline: India Pale Weizen.</h3>
+  <h3>Blitz Saison<br>Tagline: Lemon & coriander Berliner Weisse</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>04/02/2023, 12:18:18 UTC</strong></sub>
+<sub>Last updated at <strong>04/02/2023, 18:12:04 UTC</strong></sub>
