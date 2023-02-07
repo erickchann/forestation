@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Go stargazing</h3>
+  <h3>Go to the library and find an interesting book</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>07/02/2023, 12:21:11 UTC</strong></sub>
+<sub>Last updated at <strong>07/02/2023, 18:13:28 UTC</strong></sub>
