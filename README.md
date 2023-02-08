@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Catch up on world news</h3>
+  <h3>Learn how to beatbox</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>08/02/2023, 12:20:56 UTC</strong></sub>
+<sub>Last updated at <strong>08/02/2023, 18:13:56 UTC</strong></sub>
