@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>International Arms Race (w/ Flying Dog)<br>Tagline: Zero IBU Herbal IPA.</h3>
+  <h3>Juniper Wheat Beer<br>Tagline: American Style Wheat Ale With Juniper Berries.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/02/2023, 12:19:16 UTC</strong></sub>
+<sub>Last updated at <strong>12/02/2023, 18:12:32 UTC</strong></sub>
