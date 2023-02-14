@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Sink The Bismarck!<br>Tagline: IPA For The Dedicated.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Today, my son asked "Can I have a book mark?" and I burst into tears.<br>11 years old and he still doesn't know my name is Brian.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/02/2023, 12:22:32 UTC</strong></sub>
+<sub>Last updated at <strong>14/02/2023, 18:13:58 UTC</strong></sub>
