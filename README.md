@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Monk Hammer<br>Tagline: Our Ruthless IPA With A Belgian Twist.</h3>
+  <h3>Sink The Bismarck!<br>Tagline: IPA For The Dedicated.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/02/2023, 18:14:06 UTC</strong></sub>
+<sub>Last updated at <strong>14/02/2023, 12:22:32 UTC</strong></sub>
