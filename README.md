@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Volunteer at your local food pantry</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Black Jacques<br>Tagline: Red Wine Barrel-Aged Imperial Black Saison.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>15/02/2023, 12:22:47 UTC</strong></sub>
+<sub>Last updated at <strong>15/02/2023, 18:14:01 UTC</strong></sub>
