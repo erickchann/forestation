@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Brewdog Vs Beavertown<br>Tagline: Coffee And Cigarettes.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Teach your dog a new trick</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/02/2023, 12:21:46 UTC</strong></sub>
+<sub>Last updated at <strong>16/02/2023, 18:13:11 UTC</strong></sub>
