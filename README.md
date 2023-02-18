@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Text a friend you haven't talked to in a long time</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Fake Lager<br>Tagline: Bohemian Pilsner.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/02/2023, 12:19:02 UTC</strong></sub>
+<sub>Last updated at <strong>18/02/2023, 18:12:40 UTC</strong></sub>
