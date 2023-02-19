@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Take a bubble bath</h3>
+  <h3>Start a blog for something you're passionate about</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/02/2023, 12:19:34 UTC</strong></sub>
+<sub>Last updated at <strong>19/02/2023, 18:12:40 UTC</strong></sub>
