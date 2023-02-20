@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Cap Dog (w/ Cap Brewery)<br>Tagline: Black Cascara IPA.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>20/02/2023, 12:21:30 UTC</strong></sub>
+<sub>Last updated at <strong>20/02/2023, 18:13:51 UTC</strong></sub>
