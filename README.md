@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Debugging: Removing the needles from the haystack.</h3>
+  <h3>Have a great weekend!<br>I hope your code behaves the same on Monday as it did on Friday.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>21/02/2023, 12:21:23 UTC</strong></sub>
+<sub>Last updated at <strong>21/02/2023, 18:13:52 UTC</strong></sub>
