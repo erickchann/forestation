@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"Knock, knock."<br>"Who's there?"<br><br>[very long pause]<br><br>"Java."</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Semi Skimmed Occultist<br>Tagline: Oatmeal Milk Stout.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>23/02/2023, 12:23:13 UTC</strong></sub>
+<sub>Last updated at <strong>23/02/2023, 18:14:33 UTC</strong></sub>
