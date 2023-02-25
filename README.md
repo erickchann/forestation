@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Judge: "I sentence you to the maximum punishment..."<br>Me (thinking): "Please be death, please be death..."<br>Judge: "Learn Java!"<br>Me: "Damn."</h3>
+  <h3>Knock knock.<br>Who's there?<br>Recursion.<br>Recursion who?<br>Knock knock.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/02/2023, 18:14:05 UTC</strong></sub>
+<sub>Last updated at <strong>25/02/2023, 12:19:19 UTC</strong></sub>
