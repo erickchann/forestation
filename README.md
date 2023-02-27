@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I've got a really good UDP joke to tell you but I don’t know if you'll get it.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn woodworking</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/02/2023, 12:23:10 UTC</strong></sub>
+<sub>Last updated at <strong>27/02/2023, 18:14:41 UTC</strong></sub>
