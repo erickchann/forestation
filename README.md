@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Black Eye Joe (w/ Stone Brewing Co)<br>Tagline: Coffe Black IPA.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn how to use an Arduino</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/03/2023, 12:20:41 UTC</strong></sub>
+<sub>Last updated at <strong>02/03/2023, 18:15:06 UTC</strong></sub>
