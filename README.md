@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Crew Brew<br>Tagline: Democratic Amber Ale</h3>
+  <h3>Black Eye Joe (w/ Stone Brewing Co)<br>Tagline: Coffe Black IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>01/03/2023, 18:14:06 UTC</strong></sub>
+<sub>Last updated at <strong>02/03/2023, 12:20:41 UTC</strong></sub>
