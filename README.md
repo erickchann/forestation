@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Challenger<br>Tagline: Single Hop India Pale Ale – 2012.</h3>
+  <h3>Magic Stone Dog (w/Magic Rock & Stone Brewing Co.)<br>Tagline: Session Farmhouse IPA - Stone / Magic Rock Collab.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>04/03/2023, 18:12:44 UTC</strong></sub>
+<sub>Last updated at <strong>05/03/2023, 12:19:57 UTC</strong></sub>
