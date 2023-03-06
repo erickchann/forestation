@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>All Day Long - Prototype Challenge<br>Tagline: Malty Low ABV Ale.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Catch up on world news</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/03/2023, 12:22:33 UTC</strong></sub>
+<sub>Last updated at <strong>06/03/2023, 18:14:31 UTC</strong></sub>
