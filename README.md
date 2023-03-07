@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Catch up on world news</h3>
+  <h3>Clean out your closet and donate the clothes you've outgrown</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/03/2023, 18:14:31 UTC</strong></sub>
+<sub>Last updated at <strong>07/03/2023, 12:22:19 UTC</strong></sub>
