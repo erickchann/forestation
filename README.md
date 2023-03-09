@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Devine Rebel (w/ Mikkeller)<br>Tagline: Oak-aged Barley Wine.</h3>
+  <h3>Coffee Imperial Stout<br>Tagline: Beats a Cup of Joe.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>08/03/2023, 18:14:43 UTC</strong></sub>
+<sub>Last updated at <strong>09/03/2023, 12:23:24 UTC</strong></sub>
