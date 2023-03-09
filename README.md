@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Coffee Imperial Stout<br>Tagline: Beats a Cup of Joe.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/03/2023, 12:23:24 UTC</strong></sub>
+<sub>Last updated at <strong>09/03/2023, 18:14:24 UTC</strong></sub>
