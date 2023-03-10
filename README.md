@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.</h3>
+  <h3>The generation of random numbers is too important to be left to chance.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/03/2023, 18:14:24 UTC</strong></sub>
+<sub>Last updated at <strong>10/03/2023, 12:22:01 UTC</strong></sub>
