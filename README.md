@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Choco Libre<br>Tagline: Mexican Hot Chocolate Imperial Stout.</h3>
+  <h3>Hello My Name Is Little Ingrid<br>Tagline: Cloudberry Session IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/03/2023, 12:27:32 UTC</strong></sub>
+<sub>Last updated at <strong>14/03/2023, 18:16:30 UTC</strong></sub>
