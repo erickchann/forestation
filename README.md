@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Resolve a problem you've been putting off</h3>
+  <h3>Contribute code or a monetary donation to an open-source software project</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/03/2023, 12:21:23 UTC</strong></sub>
+<sub>Last updated at <strong>16/03/2023, 18:13:46 UTC</strong></sub>
