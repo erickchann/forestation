@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A horse walks into a bar.<br>"Hey", the Bartender says.<br>"Sure", the horse replies.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Twin Atlantic<br>Tagline: Mango & Pineapple Pale</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/03/2023, 12:19:12 UTC</strong></sub>
+<sub>Last updated at <strong>19/03/2023, 18:12:28 UTC</strong></sub>
