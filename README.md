@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hello My Name Is Mette-Marit<br>Tagline: Lingonberry Double IPA.</h3>
+  <h3>Zeitgeist<br>Tagline: Organic Black Lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>20/03/2023, 18:13:52 UTC</strong></sub>
+<sub>Last updated at <strong>21/03/2023, 12:20:01 UTC</strong></sub>
