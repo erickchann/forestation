@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn about a distributed version control system such as Git</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>22/03/2023, 18:12:54 UTC</strong></sub>
+<sub>Last updated at <strong>23/03/2023, 12:20:49 UTC</strong></sub>
