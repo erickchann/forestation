@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Make Earth Great Again<br>Tagline: Cloudberry Saison.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/03/2023, 18:12:57 UTC</strong></sub>
+<sub>Last updated at <strong>25/03/2023, 12:17:48 UTC</strong></sub>
