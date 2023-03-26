@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn calligraphy</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>// This line doesn't actually do anything, but the code stops working when I delete it.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/03/2023, 12:18:00 UTC</strong></sub>
+<sub>Last updated at <strong>26/03/2023, 18:11:43 UTC</strong></sub>
