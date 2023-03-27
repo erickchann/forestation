@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>// This line doesn't actually do anything, but the code stops working when I delete it.</h3>
+  <h3>Oysters hate to give away their pearls because they are shellfish.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/03/2023, 18:11:43 UTC</strong></sub>
+<sub>Last updated at <strong>27/03/2023, 13:19:50 UTC</strong></sub>
