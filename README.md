@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Create and follow a savings plan</h3>
+  <h3>Take your cat on a walk</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/03/2023, 18:13:08 UTC</strong></sub>
+<sub>Last updated at <strong>29/03/2023, 12:22:28 UTC</strong></sub>
