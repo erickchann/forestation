@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Go for a walk</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Bavarian Weizen<br>Tagline: Unleash the Yeast Series.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>30/03/2023, 18:11:59 UTC</strong></sub>
+<sub>Last updated at <strong>31/03/2023, 12:19:28 UTC</strong></sub>
