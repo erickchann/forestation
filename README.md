@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Zephyr<br>Tagline: There’s A Storm Brewing.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Hey Girl,<br>Roses are #ff0000,<br>Violets are #0000ff,<br>I use hex codes,<br>But I'd use RGB for you.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>31/03/2023, 18:11:44 UTC</strong></sub>
+<sub>Last updated at <strong>01/04/2023, 12:17:01 UTC</strong></sub>
