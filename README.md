@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Listen to a new music genre</h3>
+  <h3>Repaint a room in your house</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/04/2023, 12:17:25 UTC</strong></sub>
+<sub>Last updated at <strong>02/04/2023, 18:11:00 UTC</strong></sub>
