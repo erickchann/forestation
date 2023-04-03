@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Start a family tree</h3>
+  <h3>Go swimming with a friend</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>03/04/2023, 12:19:06 UTC</strong></sub>
+<sub>Last updated at <strong>03/04/2023, 18:12:16 UTC</strong></sub>
