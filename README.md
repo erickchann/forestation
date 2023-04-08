@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hello My Name Is Niamh<br>Tagline: Elderflower Infused Double IPA.</h3>
+  <h3>Dog E<br>Tagline: Ninth Anniversary Imperial Stout.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>07/04/2023, 18:12:09 UTC</strong></sub>
+<sub>Last updated at <strong>08/04/2023, 12:16:51 UTC</strong></sub>
