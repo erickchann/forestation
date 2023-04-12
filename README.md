@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Dog D<br>Tagline: Anniversary Imperial Stout.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>ASCII silly question, get a silly ANSI.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/04/2023, 12:19:14 UTC</strong></sub>
+<sub>Last updated at <strong>12/04/2023, 18:12:29 UTC</strong></sub>
