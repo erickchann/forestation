@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>ASCII silly question, get a silly ANSI.</h3>
+  <h3>Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/04/2023, 18:12:29 UTC</strong></sub>
+<sub>Last updated at <strong>13/04/2023, 12:19:36 UTC</strong></sub>
