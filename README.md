@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Today, my son asked "Can I have a book mark?" and I burst into tears.<br>11 years old and he still doesn't know my name is Brian.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Interstate Vienna Lager.<br>Tagline: Vienna Lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/04/2023, 12:17:29 UTC</strong></sub>
+<sub>Last updated at <strong>16/04/2023, 18:11:20 UTC</strong></sub>
