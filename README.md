@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Have a jam session with your friends</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Hello My Name is Sonja (w/ Evil Twin)<br>Tagline: Blueberry Double IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>17/04/2023, 18:12:40 UTC</strong></sub>
+<sub>Last updated at <strong>18/04/2023, 12:19:47 UTC</strong></sub>
