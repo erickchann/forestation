@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>UDP is better in the COVID era since it avoids unnecessary handshakes.</h3>
+  <h3>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/04/2023, 18:12:36 UTC</strong></sub>
+<sub>Last updated at <strong>20/04/2023, 12:19:10 UTC</strong></sub>
