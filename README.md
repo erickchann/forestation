@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Four engineers get into a car. The car won't start.<br>The Mechanical engineer says "It's a broken starter".<br>The Electrical engineer says "Dead battery".<br>The Chemical engineer says "Impurities in the gasoline".<br>The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Science IPA<br>Tagline: India Pale Ale</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>21/04/2023, 12:18:34 UTC</strong></sub>
+<sub>Last updated at <strong>21/04/2023, 18:12:30 UTC</strong></sub>
