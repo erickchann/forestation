@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Science IPA<br>Tagline: India Pale Ale</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>21/04/2023, 18:12:30 UTC</strong></sub>
+<sub>Last updated at <strong>22/04/2023, 12:17:35 UTC</strong></sub>
