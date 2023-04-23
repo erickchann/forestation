@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I'm reading a book about anti-gravity. It's impossible to put down!</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>AB:19<br>Tagline: A Blend of Two Barrel-aged Imperial Saisons.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>23/04/2023, 12:18:28 UTC</strong></sub>
+<sub>Last updated at <strong>23/04/2023, 18:11:42 UTC</strong></sub>
