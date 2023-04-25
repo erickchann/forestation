@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>ASCII silly question, get a silly ANSI.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn how to use a french press</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>25/04/2023, 12:19:05 UTC</strong></sub>
+<sub>Last updated at <strong>25/04/2023, 18:12:33 UTC</strong></sub>
