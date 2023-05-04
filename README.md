@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Punk IPA 2010 - Current<br>Tagline: Post Modern Classic. Spiky. Tropical. Hoppy.</h3>
+  <h3>San Diego Scotch Ale (w/Ballast Point)<br>Tagline: Imperial Scotch Ale With Rum & Raisin.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>03/05/2023, 18:11:58 UTC</strong></sub>
+<sub>Last updated at <strong>04/05/2023, 12:18:46 UTC</strong></sub>
