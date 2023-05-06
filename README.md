@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Clean out your garage</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Sorachi Bitter - B-Sides<br>Tagline: Sorachi Ace Bitter.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/05/2023, 12:17:13 UTC</strong></sub>
+<sub>Last updated at <strong>06/05/2023, 18:11:23 UTC</strong></sub>
