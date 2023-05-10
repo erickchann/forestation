@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Prepare a dish from a foreign culture</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Cascade, Centennial & Willamette IPA - B-Sides<br>Tagline: Pilot Kit IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/05/2023, 18:11:59 UTC</strong></sub>
+<sub>Last updated at <strong>10/05/2023, 12:19:20 UTC</strong></sub>
