@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I was reading a great book about an immortal dog the other day. It was impossible to put down.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Jet Black Heart<br>Tagline: Oatmeal Milk Stout. Dark. Roasty. Velvety.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/05/2023, 12:20:02 UTC</strong></sub>
+<sub>Last updated at <strong>11/05/2023, 18:11:53 UTC</strong></sub>
