@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Cascade, Centennial & Willamette IPA - B-Sides<br>Tagline: Pilot Kit IPA.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>I was reading a great book about an immortal dog the other day. It was impossible to put down.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>10/05/2023, 12:19:20 UTC</strong></sub>
+<sub>Last updated at <strong>11/05/2023, 12:20:02 UTC</strong></sub>
