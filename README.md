@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Jet Black Heart<br>Tagline: Oatmeal Milk Stout. Dark. Roasty. Velvety.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>There are only 10 kinds of people in this world: those who know binary and those who don't.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/05/2023, 18:11:53 UTC</strong></sub>
+<sub>Last updated at <strong>12/05/2023, 12:18:19 UTC</strong></sub>
