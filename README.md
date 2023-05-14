@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Four engineers get into a car. The car won't start.<br>The Mechanical engineer says "It's a broken starter".<br>The Electrical engineer says "Dead battery".<br>The Chemical engineer says "Impurities in the gasoline".<br>The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".</h3>
+  <h3>A programmer puts two glasses on his bedside table before going to sleep.<br>A full one, in case he gets thirsty, and an empty one, in case he doesn't.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/05/2023, 18:11:50 UTC</strong></sub>
+<sub>Last updated at <strong>14/05/2023, 12:17:48 UTC</strong></sub>
