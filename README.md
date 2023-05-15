@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>El Dorado - IPA Is Dead<br>Tagline: Single Hop India Pale Ale.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Knock knock.<br>Who's there?<br>Recursion.<br>Recursion who?<br>Knock knock.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/05/2023, 18:11:07 UTC</strong></sub>
+<sub>Last updated at <strong>15/05/2023, 12:20:02 UTC</strong></sub>
