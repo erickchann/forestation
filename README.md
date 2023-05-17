@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Interstate Vienna Lager.<br>Tagline: Vienna Lager.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>I have a joke about trickle down economics, but 99% of you will never get it.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/05/2023, 18:12:11 UTC</strong></sub>
+<sub>Last updated at <strong>17/05/2023, 12:18:47 UTC</strong></sub>
