@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A SQL statement walks into a bar and sees two tables.<br>It approaches, and asks "may I join you?"</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Berliner Weisse With Yuzu - B-Sides<br>Tagline: Japanese Citrus Berliner Weisse.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/05/2023, 12:18:33 UTC</strong></sub>
+<sub>Last updated at <strong>18/05/2023, 18:12:00 UTC</strong></sub>
