@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>AB:13<br>Tagline: Cask-Aged Cherry Imperial Stout.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>"We messed up the keming again guys."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/05/2023, 12:18:06 UTC</strong></sub>
+<sub>Last updated at <strong>19/05/2023, 18:11:51 UTC</strong></sub>
