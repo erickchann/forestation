@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Berliner Weisse With Yuzu - B-Sides<br>Tagline: Japanese Citrus Berliner Weisse.</h3>
+  <h3>AB:13<br>Tagline: Cask-Aged Cherry Imperial Stout.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/05/2023, 18:12:00 UTC</strong></sub>
+<sub>Last updated at <strong>19/05/2023, 12:18:06 UTC</strong></sub>
