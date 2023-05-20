@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"We messed up the keming again guys."</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Patronize a local independent restaurant</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/05/2023, 18:11:51 UTC</strong></sub>
+<sub>Last updated at <strong>20/05/2023, 12:17:01 UTC</strong></sub>
