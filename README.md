@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Neverland<br>Tagline: India Pale Lager.</h3>
+  <h3>Paradox Islay 2.0<br>Tagline: Islay Cask-Aged Imperial Stout.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>23/05/2023, 12:18:41 UTC</strong></sub>
+<sub>Last updated at <strong>23/05/2023, 18:11:52 UTC</strong></sub>
