@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Plant a tree</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Ace Of Simcoe<br>Tagline: Single-Hopped Session IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/05/2023, 12:18:33 UTC</strong></sub>
+<sub>Last updated at <strong>26/05/2023, 18:12:00 UTC</strong></sub>
