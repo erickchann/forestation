@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Meditate for five minutes</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>A programmer puts two glasses on his bedside table before going to sleep.<br>A full one, in case he gets thirsty, and an empty one, in case he doesn't.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>29/05/2023, 18:11:48 UTC</strong></sub>
+<sub>Last updated at <strong>30/05/2023, 12:20:29 UTC</strong></sub>
