@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Explore the nightlife of your city</h3>
+  <h3>Create a compost pile</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>31/05/2023, 18:12:10 UTC</strong></sub>
+<sub>Last updated at <strong>01/06/2023, 12:19:48 UTC</strong></sub>
