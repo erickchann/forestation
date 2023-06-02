@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn to play a new instrument</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>A horse walks into a bar.<br>"Hey", the Bartender says.<br>"Sure", the horse replies.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/06/2023, 12:20:03 UTC</strong></sub>
+<sub>Last updated at <strong>02/06/2023, 18:11:43 UTC</strong></sub>
