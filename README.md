@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Mow your neighbor's lawn</h3>
+  <h3>Learn to play a new instrument</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>01/06/2023, 18:12:43 UTC</strong></sub>
+<sub>Last updated at <strong>02/06/2023, 12:20:03 UTC</strong></sub>
