@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Paradox Islay 2018<br>Tagline: Whisky Cask Aged Imperial Stout.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Catch up with a friend over a lunch date</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>03/06/2023, 18:11:15 UTC</strong></sub>
+<sub>Last updated at <strong>04/06/2023, 12:17:56 UTC</strong></sub>
