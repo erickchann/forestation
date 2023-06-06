@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Write a thank you letter to an influential person in your life</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Deaf Mermaid - B-Sides<br>Tagline: Light Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/06/2023, 12:20:02 UTC</strong></sub>
+<sub>Last updated at <strong>06/06/2023, 18:11:56 UTC</strong></sub>
