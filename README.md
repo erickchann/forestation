@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Think of a new business idea</h3>
+  <h3>Take a class at your local community center that interests you</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>08/06/2023, 12:18:47 UTC</strong></sub>
+<sub>Last updated at <strong>08/06/2023, 18:11:58 UTC</strong></sub>
