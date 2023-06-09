@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Misspent Youth<br>Tagline: Milk & Honey Scotch Ale.</h3>
+  <h3>Russian Doll – India Pale Ale<br>Tagline: Nesting Hop Bomb.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/06/2023, 12:18:52 UTC</strong></sub>
+<sub>Last updated at <strong>09/06/2023, 18:12:16 UTC</strong></sub>
