@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</h3>
+  <h3>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/06/2023, 12:18:01 UTC</strong></sub>
+<sub>Last updated at <strong>11/06/2023, 18:11:35 UTC</strong></sub>
