@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Have a great weekend!<br>I hope your code behaves the same on Monday as it did on Friday.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>White Noise<br>Tagline: White IPA with Motueka.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/06/2023, 12:20:03 UTC</strong></sub>
+<sub>Last updated at <strong>12/06/2023, 18:12:07 UTC</strong></sub>
