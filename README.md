@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Sunshine On Rye - B-Sides<br>Tagline: Hoppy Rye IPA.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>A horse walks into a bar.<br>"Hey", the Bartender says.<br>"Sure", the horse replies.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/06/2023, 12:20:08 UTC</strong></sub>
+<sub>Last updated at <strong>13/06/2023, 18:12:09 UTC</strong></sub>
