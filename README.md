@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A horse walks into a bar.<br>"Hey", the Bartender says.<br>"Sure", the horse replies.</h3>
+  <h3>Judge: "I sentence you to the maximum punishment..."<br>Me (thinking): "Please be death, please be death..."<br>Judge: "Learn Java!"<br>Me: "Damn."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/06/2023, 18:12:09 UTC</strong></sub>
+<sub>Last updated at <strong>14/06/2023, 12:19:51 UTC</strong></sub>
