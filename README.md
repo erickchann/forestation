@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Fill out a basketball bracket</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>This. Is. Lager<br>Tagline: 21st Century Pilsner. Sharp. Robust. Honest.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/06/2023, 12:18:37 UTC</strong></sub>
+<sub>Last updated at <strong>16/06/2023, 18:11:57 UTC</strong></sub>
