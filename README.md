@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Debugging: Removing the needles from the haystack.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Blitz Berliner Weisse<br>Tagline: Berliner Fruit Beer.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>17/06/2023, 18:11:14 UTC</strong></sub>
+<sub>Last updated at <strong>18/06/2023, 12:17:59 UTC</strong></sub>
