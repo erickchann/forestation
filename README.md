@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn how to beatbox</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Sunmaid Stout<br>Tagline: Rum & Raisin Imperial Stout.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>20/06/2023, 12:20:04 UTC</strong></sub>
+<sub>Last updated at <strong>20/06/2023, 18:11:24 UTC</strong></sub>
