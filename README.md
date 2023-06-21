@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I've got a really good UDP joke to tell you but I don’t know if you'll get it.</h3>
+  <h3>Eight bytes walk into a bar.<br>The bartender asks, "Can I get you anything?"<br>"Yeah," reply the bytes.<br>"Make us a double."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>21/06/2023, 12:19:45 UTC</strong></sub>
+<sub>Last updated at <strong>21/06/2023, 18:12:08 UTC</strong></sub>
