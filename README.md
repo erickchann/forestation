@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Organize a cluttered drawer</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Small Batch: Dortmunder<br>Tagline: Pale Lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>22/06/2023, 18:12:10 UTC</strong></sub>
+<sub>Last updated at <strong>23/06/2023, 12:21:17 UTC</strong></sub>
