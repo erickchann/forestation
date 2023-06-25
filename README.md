@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Bashah (w/ Stone Brewing Co)<br>Tagline: Black Belgian Double IPA.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Go to a karaoke bar with some friends</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>25/06/2023, 12:20:37 UTC</strong></sub>
+<sub>Last updated at <strong>25/06/2023, 18:13:21 UTC</strong></sub>
