@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>// This line doesn't actually do anything, but the code stops working when I delete it.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Make Earth Great Again<br>Tagline: Cloudberry Saison.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/06/2023, 18:14:06 UTC</strong></sub>
+<sub>Last updated at <strong>29/06/2023, 12:21:35 UTC</strong></sub>
