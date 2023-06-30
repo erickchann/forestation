@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Very Big Moose<br>Tagline: Chocolate Imperial Stout.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>I have a joke about Stack Overflow, but you would say it's a duplicate.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>30/06/2023, 12:20:59 UTC</strong></sub>
+<sub>Last updated at <strong>30/06/2023, 18:13:27 UTC</strong></sub>
