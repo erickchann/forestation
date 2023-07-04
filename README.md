@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Dog B<br>Tagline: Cacao, Coffee Chili Anniversary Stout.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Plant a tree</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>04/07/2023, 12:22:47 UTC</strong></sub>
+<sub>Last updated at <strong>04/07/2023, 18:14:29 UTC</strong></sub>
