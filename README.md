@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>There are only 10 kinds of people in this world: those who know binary and those who don't.</h3>
+  <h3>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/07/2023, 12:25:41 UTC</strong></sub>
+<sub>Last updated at <strong>05/07/2023, 18:14:24 UTC</strong></sub>
