@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Small Batch: Tripel<br>Tagline: Spiced Belgium Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/07/2023, 18:14:24 UTC</strong></sub>
+<sub>Last updated at <strong>06/07/2023, 12:24:10 UTC</strong></sub>
