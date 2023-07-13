@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>How do you tell HTML from HTML5?<br>- Try it out in Internet Explorer<br>- Did it work?<br>- No?<br>- It's HTML5.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Paradox Islay<br>Tagline: Ubiquitous Imperial Stout.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/07/2023, 18:13:57 UTC</strong></sub>
+<sub>Last updated at <strong>13/07/2023, 12:23:33 UTC</strong></sub>
