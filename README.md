@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Dog B<br>Tagline: Cacao, Coffee Chili Anniversary Stout.</h3>
+  <h3>HBC 366 - IPA Is Dead<br>Tagline: Single Hop India Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/07/2023, 18:14:43 UTC</strong></sub>
+<sub>Last updated at <strong>14/07/2023, 12:21:51 UTC</strong></sub>
