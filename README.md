@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Volunteer at a local animal shelter</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>#Mashtag 2013<br>Tagline: Democratic American Brown Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/07/2023, 12:19:44 UTC</strong></sub>
+<sub>Last updated at <strong>16/07/2023, 18:12:41 UTC</strong></sub>
