@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Rearrange and organize your room</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Fools Gold Dortmunder Lager<br>Tagline: Lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/07/2023, 12:19:35 UTC</strong></sub>
+<sub>Last updated at <strong>19/07/2023, 18:12:10 UTC</strong></sub>
