@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn a new recipe</h3>
+  <h3>Go to a nail salon</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>22/07/2023, 12:17:46 UTC</strong></sub>
+<sub>Last updated at <strong>22/07/2023, 18:11:24 UTC</strong></sub>
