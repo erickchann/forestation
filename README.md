@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A SQL statement walks into a bar and sees two tables.<br>It approaches, and asks "may I join you?"</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Galaxy<br>Tagline: Single Hop India Pale Ale – 2012.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>23/07/2023, 18:11:27 UTC</strong></sub>
+<sub>Last updated at <strong>24/07/2023, 12:19:45 UTC</strong></sub>
