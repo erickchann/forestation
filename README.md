@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Berliner Weisse With Yuzu - B-Sides<br>Tagline: Japanese Citrus Berliner Weisse.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Knock knock.<br>Who's there?<br>Recursion.<br>Recursion who?<br>Knock knock.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/07/2023, 18:13:56 UTC</strong></sub>
+<sub>Last updated at <strong>25/07/2023, 12:20:15 UTC</strong></sub>
