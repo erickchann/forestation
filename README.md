@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Create or update your resume</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Algorithm: A word used by programmers when they don't want to explain how their code works.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/07/2023, 12:19:42 UTC</strong></sub>
+<sub>Last updated at <strong>27/07/2023, 18:11:39 UTC</strong></sub>
