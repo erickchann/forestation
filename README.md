@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Take your dog on a walk</h3>
+  <h3>Make a scrapbook with pictures of your favorite memories</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/08/2023, 12:18:50 UTC</strong></sub>
+<sub>Last updated at <strong>02/08/2023, 18:11:56 UTC</strong></sub>
