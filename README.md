@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Whisky Sour - B-Sides<br>Tagline: Pilot Brew - Deconstructed Whisky Sour.</h3>
+  <h3>Prototype 27<br>Tagline: Vibrant Smoky Pink IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/08/2023, 12:16:23 UTC</strong></sub>
+<sub>Last updated at <strong>06/08/2023, 18:10:53 UTC</strong></sub>
