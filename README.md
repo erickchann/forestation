@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn a new recipe</h3>
+  <h3>Pick up litter around your favorite park</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>08/08/2023, 12:19:00 UTC</strong></sub>
+<sub>Last updated at <strong>08/08/2023, 18:12:44 UTC</strong></sub>
