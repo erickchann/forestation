@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hello My Name is Vladimir<br>Tagline: Limonnik Infused Imperial IPA (Not for Gays).</h3>
+  <h3>Shareholder Black IPA 2011<br>Tagline: Shareholder Black IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/08/2023, 12:17:18 UTC</strong></sub>
+<sub>Last updated at <strong>11/08/2023, 18:11:26 UTC</strong></sub>
