@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Bake something you've never tried before</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Grano Giusto<br>Tagline: Dark Lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/08/2023, 12:15:45 UTC</strong></sub>
+<sub>Last updated at <strong>13/08/2023, 18:10:32 UTC</strong></sub>
