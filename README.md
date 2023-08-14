@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Read a formal research paper on an interesting subject</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Jasmine IPA<br>Tagline: Floral & Fruity India Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/08/2023, 12:17:51 UTC</strong></sub>
+<sub>Last updated at <strong>14/08/2023, 18:11:42 UTC</strong></sub>
