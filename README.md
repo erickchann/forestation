@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Buzz<br>Tagline: A Real Bitter Experience.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Practice coding in your favorite lanaguage</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>15/08/2023, 18:11:30 UTC</strong></sub>
+<sub>Last updated at <strong>16/08/2023, 12:17:28 UTC</strong></sub>
