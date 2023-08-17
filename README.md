@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Lizard Bride - Prototype Challenge<br>Tagline: Fruit Infused Sour IPA.</h3>
+  <h3>Ace Of Chinook<br>Tagline: Single-Hopped Session IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/08/2023, 18:11:28 UTC</strong></sub>
+<sub>Last updated at <strong>17/08/2023, 12:17:19 UTC</strong></sub>
