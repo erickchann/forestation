@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hello My Name Is Ingrid<br>Tagline: Sophisticated Bergmanesque Beer.</h3>
+  <h3>Brixton Porter<br>Tagline: Paradigm-Changing Porter.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/08/2023, 12:17:20 UTC</strong></sub>
+<sub>Last updated at <strong>18/08/2023, 18:11:34 UTC</strong></sub>
