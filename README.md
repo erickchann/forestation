@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Brixton Porter<br>Tagline: Paradigm-Changing Porter.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn the NATO phonetic alphabet</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/08/2023, 18:11:34 UTC</strong></sub>
+<sub>Last updated at <strong>19/08/2023, 12:15:30 UTC</strong></sub>
