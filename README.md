@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>San Diego Scotch Ale (w/Ballast Point)<br>Tagline: Imperial Scotch Ale With Rum & Raisin.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Debugging is like being the detective in a crime movie where you're also the murderer at the same time.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>20/08/2023, 12:15:32 UTC</strong></sub>
+<sub>Last updated at <strong>20/08/2023, 18:10:24 UTC</strong></sub>
