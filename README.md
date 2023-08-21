@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Debugging is like being the detective in a crime movie where you're also the murderer at the same time.</h3>
+  <h3>"Honey, go to the store and buy some eggs."<br>"OK."<br>"Oh and while you're there, get some milk."<br>He never returned.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>20/08/2023, 18:10:24 UTC</strong></sub>
+<sub>Last updated at <strong>21/08/2023, 12:17:55 UTC</strong></sub>
