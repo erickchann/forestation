@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Clean out your closet and donate the clothes you've outgrown</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>23/08/2023, 18:09:53 UTC</strong></sub>
+<sub>Last updated at <strong>24/08/2023, 12:17:54 UTC</strong></sub>
