@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Have a paper airplane contest with some friends</h3>
+  <h3>Patronize a local independent restaurant</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>25/08/2023, 12:17:37 UTC</strong></sub>
+<sub>Last updated at <strong>25/08/2023, 18:12:10 UTC</strong></sub>
