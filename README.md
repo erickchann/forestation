@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Eight bytes walk into a bar.<br>The bartender asks, "Can I get you anything?"<br>"Yeah," reply the bytes.<br>"Make us a double."</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Have a paper airplane contest with some friends</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/08/2023, 18:12:02 UTC</strong></sub>
+<sub>Last updated at <strong>25/08/2023, 12:17:37 UTC</strong></sub>
