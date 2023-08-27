@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Prototype Double IPA<br>Tagline: American Hop Overload.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Give your pet ten minutes of focused attention</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/08/2023, 18:10:38 UTC</strong></sub>
+<sub>Last updated at <strong>27/08/2023, 12:16:02 UTC</strong></sub>
