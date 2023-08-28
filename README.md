@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Punk Monk<br>Tagline: Who Ordered The Belgian Yeast?</h3>
+  <h3>HBC 366 - IPA Is Dead<br>Tagline: Single Hop India Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/08/2023, 18:10:36 UTC</strong></sub>
+<sub>Last updated at <strong>28/08/2023, 12:18:39 UTC</strong></sub>
