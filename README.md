@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn how to french braid hair</h3>
+  <h3>Clean out your garage</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/08/2023, 18:12:01 UTC</strong></sub>
+<sub>Last updated at <strong>29/08/2023, 12:18:17 UTC</strong></sub>
