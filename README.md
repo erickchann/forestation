@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>New England IPA<br>Tagline: Vermont IPA</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Make a budget</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>29/08/2023, 18:12:12 UTC</strong></sub>
+<sub>Last updated at <strong>30/08/2023, 12:18:11 UTC</strong></sub>
