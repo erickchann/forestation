@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Raspberry Popsicle Parade<br>Tagline: Raspberry Berliner Weisse.</h3>
+  <h3>Make Earth Great Again<br>Tagline: Cloudberry Saison.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>30/08/2023, 18:12:10 UTC</strong></sub>
+<sub>Last updated at <strong>31/08/2023, 12:18:21 UTC</strong></sub>
