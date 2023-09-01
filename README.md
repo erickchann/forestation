@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I have a joke about trickle down economics, but 99% of you will never get it.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn how to use an Arduino</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>31/08/2023, 18:12:07 UTC</strong></sub>
+<sub>Last updated at <strong>01/09/2023, 12:18:06 UTC</strong></sub>
