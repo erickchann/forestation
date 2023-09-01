@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn how to use an Arduino</h3>
+  <h3>Sit in the dark and listen to your favorite music with no distractions</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>01/09/2023, 12:18:06 UTC</strong></sub>
+<sub>Last updated at <strong>01/09/2023, 18:10:24 UTC</strong></sub>
