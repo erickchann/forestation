@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A byte walks into a bar looking miserable.<br>The bartender asks it: "What's wrong buddy?"<br>"Parity error." it replies. <br>"Ah that makes sense, I thought you looked a bit off."</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Organize your pantry</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/09/2023, 18:10:41 UTC</strong></sub>
+<sub>Last updated at <strong>03/09/2023, 12:16:21 UTC</strong></sub>
