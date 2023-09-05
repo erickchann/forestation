@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"Knock, knock."<br>"Who's there?"<br><br>[very long pause]<br><br>"Java."</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>AB:18<br>Tagline: Imperial Brown Ale Aged In Rum Casks.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/09/2023, 12:18:15 UTC</strong></sub>
+<sub>Last updated at <strong>05/09/2023, 18:11:58 UTC</strong></sub>
