@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>AB:23<br>Tagline: Bourbon Barrel-Aged Barley Wine.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>"Knock, knock."<br>"Who's there?"<br><br>[very long pause]<br><br>"Java."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>04/09/2023, 18:11:30 UTC</strong></sub>
+<sub>Last updated at <strong>05/09/2023, 12:18:15 UTC</strong></sub>
