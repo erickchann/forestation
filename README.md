@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Color</h3>
+  <h3>Look at your finances and find one way to save money</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>07/09/2023, 12:18:17 UTC</strong></sub>
+<sub>Last updated at <strong>07/09/2023, 18:12:09 UTC</strong></sub>
