@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Black Hammer<br>Tagline: Our Ruthless IPA With A Dark Malt Twist.</h3>
+  <h3>Simcoe<br>Tagline: Single Hop India Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/09/2023, 18:11:03 UTC</strong></sub>
+<sub>Last updated at <strong>10/09/2023, 12:16:20 UTC</strong></sub>
