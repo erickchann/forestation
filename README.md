@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Goldings - IPA Is Dead<br>Tagline: Single Hop India Pale Ale.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Hey Girl,<br>Roses are #ff0000,<br>Violets are #0000ff,<br>I use hex codes,<br>But I'd use RGB for you.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/09/2023, 12:18:48 UTC</strong></sub>
+<sub>Last updated at <strong>11/09/2023, 18:12:21 UTC</strong></sub>
