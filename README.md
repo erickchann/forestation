@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hello My Name Is Beastie<br>Tagline: Double IPA Brewed with Brambles.</h3>
+  <h3>Small Batch: Spelt & Honey Saison<br>Tagline: Honey & Spelt Saison</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/09/2023, 12:18:24 UTC</strong></sub>
+<sub>Last updated at <strong>12/09/2023, 18:12:07 UTC</strong></sub>
