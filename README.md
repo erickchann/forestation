@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Small Batch: Spelt & Honey Saison<br>Tagline: Honey & Spelt Saison</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Play a video game</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/09/2023, 18:12:07 UTC</strong></sub>
+<sub>Last updated at <strong>13/09/2023, 12:18:51 UTC</strong></sub>
