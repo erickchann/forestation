@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Restorative Beverage For Invalids And Convalescents<br>Tagline: An Extract Taken From "A Treatise on Food and Diet" By Dr Jonathan Pereira, 1843.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/09/2023, 18:12:09 UTC</strong></sub>
+<sub>Last updated at <strong>14/09/2023, 12:18:33 UTC</strong></sub>
