@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Sink The Bismarck!<br>Tagline: IPA For The Dedicated.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Write a note of appreciation to someone</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/09/2023, 12:16:10 UTC</strong></sub>
+<sub>Last updated at <strong>16/09/2023, 18:11:08 UTC</strong></sub>
