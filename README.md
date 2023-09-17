@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Prototype Blonde Ale<br>Tagline: Mellow Golden Ale.</h3>
+  <h3>AB:06<br>Tagline: Imperial Black IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>17/09/2023, 12:16:24 UTC</strong></sub>
+<sub>Last updated at <strong>17/09/2023, 18:11:08 UTC</strong></sub>
