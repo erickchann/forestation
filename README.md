@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>AB:06<br>Tagline: Imperial Black IPA.</h3>
+  <h3>Dog Fight (w/ Flying Dog)<br>Tagline: Rye IPA - Flying Dog Collab.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>17/09/2023, 18:11:08 UTC</strong></sub>
+<sub>Last updated at <strong>18/09/2023, 12:19:24 UTC</strong></sub>
