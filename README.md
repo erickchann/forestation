@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>AB:18<br>Tagline: Imperial Brown Ale Aged In Rum Casks.</h3>
+  <h3>Hop Shot<br>Tagline: Quadruple India Pale Ale</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/09/2023, 18:12:57 UTC</strong></sub>
+<sub>Last updated at <strong>19/09/2023, 12:18:57 UTC</strong></sub>
