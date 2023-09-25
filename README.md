@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Shareholder Black IPA 2011<br>Tagline: Shareholder Black IPA.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Prepare a dish from a foreign culture</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/09/2023, 18:11:09 UTC</strong></sub>
+<sub>Last updated at <strong>25/09/2023, 12:19:26 UTC</strong></sub>
