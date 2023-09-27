@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"Knock, knock."<br>"Who's there?"<br><br>[very long pause]<br><br>"Java."</h3>
+  <h3>The six stages of debugging:<br>1. That can't happen.<br>2. That doesn't happen on my machine.<br>3. That shouldn't happen.<br>4. Why does that happen?<br>5. Oh, I see.<br>6. How did that ever work?</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/09/2023, 18:12:43 UTC</strong></sub>
+<sub>Last updated at <strong>27/09/2023, 12:19:08 UTC</strong></sub>
