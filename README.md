@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Start a webinar on a topic of your choice</h3>
+  <h3>Go see a movie in theaters with a few friends</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/09/2023, 18:12:18 UTC</strong></sub>
+<sub>Last updated at <strong>29/09/2023, 12:18:52 UTC</strong></sub>
