@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Start a blog for something you're passionate about</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Neverland<br>Tagline: India Pale Lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>30/09/2023, 12:16:42 UTC</strong></sub>
+<sub>Last updated at <strong>30/09/2023, 18:11:18 UTC</strong></sub>
