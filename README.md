@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Have a football scrimmage with some friends</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/10/2023, 12:19:07 UTC</strong></sub>
+<sub>Last updated at <strong>02/10/2023, 18:12:50 UTC</strong></sub>
