@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>#Mashtag 2014<br>Tagline: Democratic Imperial Red Ale.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Uninstall unused apps from your devices</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>10/10/2023, 12:18:51 UTC</strong></sub>
+<sub>Last updated at <strong>10/10/2023, 18:13:15 UTC</strong></sub>
