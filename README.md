@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Uninstall unused apps from your devices</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Punk IPA 2010 - Current<br>Tagline: Post Modern Classic. Spiky. Tropical. Hoppy.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>10/10/2023, 18:13:15 UTC</strong></sub>
+<sub>Last updated at <strong>11/10/2023, 12:19:43 UTC</strong></sub>
