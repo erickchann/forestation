@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A guy walks into a bar and asks for 1.4 root beers.<br>The bartender says "I'll have to charge you extra, that's a root beer float".<br>The guy says "In that case, better make it a double."</h3>
+  <h3>Eight bytes walk into a bar.<br>The bartender asks, "Can I get you anything?"<br>"Yeah," reply the bytes.<br>"Make us a double."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/10/2023, 18:13:11 UTC</strong></sub>
+<sub>Last updated at <strong>14/10/2023, 12:16:52 UTC</strong></sub>
