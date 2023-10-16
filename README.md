@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Go to a music festival with some friends</h3>
+  <h3>Play a game of Monopoly</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>15/10/2023, 18:11:51 UTC</strong></sub>
+<sub>Last updated at <strong>16/10/2023, 12:19:56 UTC</strong></sub>
