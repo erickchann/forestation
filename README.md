@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Shipwrecker Circus (w/ Oskar Blues)<br>Tagline: American Barley Wine - Oskar Blues Collab.</h3>
+  <h3>Baby Dogma<br>Tagline: Session Scotch Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>17/10/2023, 18:13:23 UTC</strong></sub>
+<sub>Last updated at <strong>18/10/2023, 12:19:33 UTC</strong></sub>
