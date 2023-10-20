@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn how to use an Arduino</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Hello My Name Is Ingrid<br>Tagline: Sophisticated Bergmanesque Beer.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/10/2023, 18:12:59 UTC</strong></sub>
+<sub>Last updated at <strong>20/10/2023, 12:18:48 UTC</strong></sub>
