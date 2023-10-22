@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn Morse code</h3>
+  <h3>Conquer one of your fears</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>22/10/2023, 12:16:53 UTC</strong></sub>
+<sub>Last updated at <strong>22/10/2023, 18:11:38 UTC</strong></sub>
