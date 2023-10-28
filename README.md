@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Libertine Porter<br>Tagline: Dry-Hopped Aggressive Porter.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn how to write in shorthand</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/10/2023, 12:16:25 UTC</strong></sub>
+<sub>Last updated at <strong>28/10/2023, 18:11:26 UTC</strong></sub>
