@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn how to write in shorthand</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/10/2023, 18:11:26 UTC</strong></sub>
+<sub>Last updated at <strong>29/10/2023, 12:17:08 UTC</strong></sub>
