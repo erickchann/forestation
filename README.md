@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Donate to your local food bank</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Deaf Mermaid - B-Sides<br>Tagline: Light Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>30/10/2023, 18:12:40 UTC</strong></sub>
+<sub>Last updated at <strong>31/10/2023, 12:18:39 UTC</strong></sub>
