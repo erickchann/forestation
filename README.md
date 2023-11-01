@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Uninstall unused apps from your devices</h3>
+  <h3>Take a hike at a local park</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>31/10/2023, 18:12:29 UTC</strong></sub>
+<sub>Last updated at <strong>01/11/2023, 12:18:42 UTC</strong></sub>
