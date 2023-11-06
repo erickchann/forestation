@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Go to the gym</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Black Eye Joe (w/ Stone Brewing Co)<br>Tagline: Coffe Black IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/11/2023, 18:11:21 UTC</strong></sub>
+<sub>Last updated at <strong>06/11/2023, 12:20:07 UTC</strong></sub>
