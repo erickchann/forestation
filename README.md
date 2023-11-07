@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Goldings - IPA Is Dead<br>Tagline: Single Hop India Pale Ale.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Eight bytes walk into a bar.<br>The bartender asks, "Can I get you anything?"<br>"Yeah," reply the bytes.<br>"Make us a double."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/11/2023, 18:12:47 UTC</strong></sub>
+<sub>Last updated at <strong>07/11/2023, 12:18:34 UTC</strong></sub>
