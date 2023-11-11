@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Make a couch fort</h3>
+  <h3>Learn how the internet works</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>10/11/2023, 18:12:27 UTC</strong></sub>
+<sub>Last updated at <strong>11/11/2023, 12:16:54 UTC</strong></sub>
