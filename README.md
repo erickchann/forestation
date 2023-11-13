@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>AB:17<br>Tagline: Three Coffee Rye Imperial Porter.</h3>
+  <h3>Avery Brown Dredge<br>Tagline: Bloggers' Imperial Pilsner.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/11/2023, 18:11:34 UTC</strong></sub>
+<sub>Last updated at <strong>13/11/2023, 12:19:24 UTC</strong></sub>
