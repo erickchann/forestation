@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Patronize a local independent restaurant</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>AB:15<br>Tagline: Salted Caramel Popcorn Strong Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/11/2023, 12:18:45 UTC</strong></sub>
+<sub>Last updated at <strong>14/11/2023, 18:11:21 UTC</strong></sub>
