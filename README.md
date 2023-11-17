@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn how to make a website</h3>
+  <h3>Create a personal website</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/11/2023, 18:12:57 UTC</strong></sub>
+<sub>Last updated at <strong>17/11/2023, 12:19:02 UTC</strong></sub>
