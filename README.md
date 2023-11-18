@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I was struggling to figure out how lightning works, but then it struck me.</h3>
+  <h3>I was reading a great book about an immortal dog the other day. It was impossible to put down.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>17/11/2023, 18:13:02 UTC</strong></sub>
+<sub>Last updated at <strong>18/11/2023, 12:17:11 UTC</strong></sub>
