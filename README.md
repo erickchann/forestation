@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Libertine Porter<br>Tagline: Dry-Hopped Aggressive Porter.</h3>
+  <h3>Magic Stone Dog (w/Magic Rock & Stone Brewing Co.)<br>Tagline: Session Farmhouse IPA - Stone / Magic Rock Collab.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/11/2023, 12:17:36 UTC</strong></sub>
+<sub>Last updated at <strong>19/11/2023, 18:11:42 UTC</strong></sub>
