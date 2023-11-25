@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn how to make a website</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/11/2023, 18:12:20 UTC</strong></sub>
+<sub>Last updated at <strong>25/11/2023, 12:17:17 UTC</strong></sub>
