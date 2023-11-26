@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Plant a tree</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>I'd tell you a joke about NAT but I would have to translate.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>25/11/2023, 18:11:42 UTC</strong></sub>
+<sub>Last updated at <strong>26/11/2023, 12:17:05 UTC</strong></sub>
