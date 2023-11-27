@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Watch the sunset or the sunrise</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/11/2023, 18:11:32 UTC</strong></sub>
+<sub>Last updated at <strong>27/11/2023, 12:19:56 UTC</strong></sub>
