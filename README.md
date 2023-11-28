@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Organize your pantry</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Grano Giusto<br>Tagline: Dark Lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/11/2023, 18:13:07 UTC</strong></sub>
+<sub>Last updated at <strong>28/11/2023, 12:19:17 UTC</strong></sub>
