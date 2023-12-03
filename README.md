@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.</h3>
+  <h3>Hey Girl,<br>Roses are #ff0000,<br>Violets are #0000ff,<br>I use hex codes,<br>But I'd use RGB for you.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>03/12/2023, 12:17:52 UTC</strong></sub>
+<sub>Last updated at <strong>03/12/2023, 18:11:44 UTC</strong></sub>
