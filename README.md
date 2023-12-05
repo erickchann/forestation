@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Brewdog Vs Beavertown<br>Tagline: Coffee And Cigarettes.</h3>
+  <h3>Brixton Porter<br>Tagline: Paradigm-Changing Porter.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>04/12/2023, 18:13:32 UTC</strong></sub>
+<sub>Last updated at <strong>05/12/2023, 12:19:30 UTC</strong></sub>
