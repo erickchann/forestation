@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I was struggling to figure out how lightning works, but then it struck me.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Devine Rebel (w/ Mikkeller)<br>Tagline: Oak-aged Barley Wine.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/12/2023, 18:13:15 UTC</strong></sub>
+<sub>Last updated at <strong>06/12/2023, 12:19:34 UTC</strong></sub>
