@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Beatnik<br>Tagline: Imperial Red Ale</h3>
+  <h3>AB:05<br>Tagline: Belgian Imperial Stout.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/12/2023, 18:13:33 UTC</strong></sub>
+<sub>Last updated at <strong>12/12/2023, 12:19:33 UTC</strong></sub>
