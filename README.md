@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"Honey, go to the store and buy some eggs."<br>"OK."<br>"Oh and while you're there, get some milk."<br>He never returned.</h3>
+  <h3>I'd tell you a joke about NAT but I would have to translate.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/12/2023, 18:13:16 UTC</strong></sub>
+<sub>Last updated at <strong>13/12/2023, 12:19:26 UTC</strong></sub>
