@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I'd tell you a joke about NAT but I would have to translate.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>AB:24<br>Tagline: Coffee & Brown Sugar Baltic Porter.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/12/2023, 12:19:26 UTC</strong></sub>
+<sub>Last updated at <strong>13/12/2023, 18:11:14 UTC</strong></sub>
