@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hello My Name Is Holy Moose<br>Tagline: Nordic Berry IPA.</h3>
+  <h3>Whisky Sour - B-Sides<br>Tagline: Pilot Brew - Deconstructed Whisky Sour.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/12/2023, 12:19:18 UTC</strong></sub>
+<sub>Last updated at <strong>14/12/2023, 18:13:12 UTC</strong></sub>
