@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Sink The Bismarck!<br>Tagline: IPA For The Dedicated.</h3>
+  <h3>Honey And Lemon Blitz<br>Tagline: Honey & Lemon Infused Berliner Weisse.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/12/2023, 12:17:27 UTC</strong></sub>
+<sub>Last updated at <strong>16/12/2023, 18:11:57 UTC</strong></sub>
