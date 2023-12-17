@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Indie Pale Ale<br>Tagline: True Independent Craft.</h3>
+  <h3>India Session Lager - Prototype Challenge<br>Tagline: Refreshing Hop Fix.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>17/12/2023, 12:17:31 UTC</strong></sub>
+<sub>Last updated at <strong>17/12/2023, 18:11:51 UTC</strong></sub>
