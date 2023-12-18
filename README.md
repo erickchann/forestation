@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>India Session Lager - Prototype Challenge<br>Tagline: Refreshing Hop Fix.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Configure two-factor authentication on your accounts</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>17/12/2023, 18:11:51 UTC</strong></sub>
+<sub>Last updated at <strong>18/12/2023, 12:19:40 UTC</strong></sub>
