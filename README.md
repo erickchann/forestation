@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Make a new friend</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Zeitgeist<br>Tagline: Organic Black Lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/12/2023, 18:10:35 UTC</strong></sub>
+<sub>Last updated at <strong>20/12/2023, 12:15:54 UTC</strong></sub>
