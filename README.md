@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Take a bubble bath</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Original Dogma (Née Speedball)<br>Tagline: Strong Ale With Honey And Spices.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>21/12/2023, 12:18:44 UTC</strong></sub>
+<sub>Last updated at <strong>21/12/2023, 18:11:23 UTC</strong></sub>
