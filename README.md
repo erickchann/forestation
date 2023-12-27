@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>How do you tell HTML from HTML5?<br>- Try it out in Internet Explorer<br>- Did it work?<br>- No?<br>- It's HTML5.</h3>
+  <h3>A SQL statement walks into a bar and sees two tables.<br>It approaches, and asks "may I join you?"</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/12/2023, 18:12:21 UTC</strong></sub>
+<sub>Last updated at <strong>27/12/2023, 12:17:57 UTC</strong></sub>
