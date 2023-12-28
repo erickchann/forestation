@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn to sew on a button</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>I have a joke about Stack Overflow, but you would say it's a duplicate.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/12/2023, 12:18:25 UTC</strong></sub>
+<sub>Last updated at <strong>28/12/2023, 18:12:49 UTC</strong></sub>
