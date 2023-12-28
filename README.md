@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hazy Jane<br>Tagline: New England IPA.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn to sew on a button</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/12/2023, 18:12:15 UTC</strong></sub>
+<sub>Last updated at <strong>28/12/2023, 12:18:25 UTC</strong></sub>
