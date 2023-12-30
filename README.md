@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Prepare a 72-hour kit</h3>
+  <h3>Create or update your resume</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>29/12/2023, 18:12:21 UTC</strong></sub>
+<sub>Last updated at <strong>30/12/2023, 12:17:12 UTC</strong></sub>
