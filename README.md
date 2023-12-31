@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>10 Heads High<br>Tagline: Imperial Red Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>30/12/2023, 18:12:18 UTC</strong></sub>
+<sub>Last updated at <strong>31/12/2023, 12:17:29 UTC</strong></sub>
