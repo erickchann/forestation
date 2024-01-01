@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Self Assembly Pope<br>Tagline: Coconut Vanilla Porter</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>31/12/2023, 18:11:38 UTC</strong></sub>
+<sub>Last updated at <strong>01/01/2024, 12:18:35 UTC</strong></sub>
