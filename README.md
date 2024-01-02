@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>There are only 10 kinds of people in this world: those who know binary and those who don't.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Make bread from scratch</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/01/2024, 12:18:25 UTC</strong></sub>
+<sub>Last updated at <strong>02/01/2024, 18:13:20 UTC</strong></sub>
