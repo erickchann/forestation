@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn how to make an Alexa skill</h3>
+  <h3>Read a formal research paper on an interesting subject</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>04/01/2024, 12:18:35 UTC</strong></sub>
+<sub>Last updated at <strong>04/01/2024, 18:13:00 UTC</strong></sub>
