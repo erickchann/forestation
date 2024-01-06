@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Alice Porter<br>Tagline: Enigmatic Dark Alchemy.</h3>
+  <h3>Small Batch: Kellerbier<br>Tagline: Crisp Unfiltered Goodness.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/01/2024, 12:17:38 UTC</strong></sub>
+<sub>Last updated at <strong>06/01/2024, 18:11:46 UTC</strong></sub>
