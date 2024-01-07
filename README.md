@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>American Ale<br>Tagline: Unleash the Yeast Series.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>07/01/2024, 12:17:37 UTC</strong></sub>
+<sub>Last updated at <strong>07/01/2024, 18:11:52 UTC</strong></sub>
