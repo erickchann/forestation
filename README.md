@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Go to a karaoke bar with some friends</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Crew Brew<br>Tagline: Democratic Amber Ale</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>08/01/2024, 18:13:48 UTC</strong></sub>
+<sub>Last updated at <strong>09/01/2024, 12:19:20 UTC</strong></sub>
