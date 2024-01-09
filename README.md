@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Crew Brew<br>Tagline: Democratic Amber Ale</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn to play a new instrument</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/01/2024, 12:19:20 UTC</strong></sub>
+<sub>Last updated at <strong>09/01/2024, 18:10:51 UTC</strong></sub>
