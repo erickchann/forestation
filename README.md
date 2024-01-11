@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</h3>
+  <h3>Judge: "I sentence you to the maximum punishment..."<br>Me (thinking): "Please be death, please be death..."<br>Judge: "Learn Java!"<br>Me: "Damn."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>10/01/2024, 18:13:04 UTC</strong></sub>
+<sub>Last updated at <strong>11/01/2024, 12:19:19 UTC</strong></sub>
