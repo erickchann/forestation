@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I have a joke about Stack Overflow, but you would say it's a duplicate.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Moshi Moshi 15<br>Tagline: American Pale Ale Birthday Beer.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/01/2024, 18:13:04 UTC</strong></sub>
+<sub>Last updated at <strong>12/01/2024, 12:19:05 UTC</strong></sub>
