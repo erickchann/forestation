@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Take a hike at a local park</h3>
+  <h3>Clean out your refrigerator</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/01/2024, 18:13:10 UTC</strong></sub>
+<sub>Last updated at <strong>13/01/2024, 12:17:39 UTC</strong></sub>
