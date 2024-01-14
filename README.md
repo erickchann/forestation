@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Clean out your garage</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/01/2024, 12:17:38 UTC</strong></sub>
+<sub>Last updated at <strong>14/01/2024, 18:11:57 UTC</strong></sub>
