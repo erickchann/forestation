@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn a new programming language</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>"Honey, go to the store and buy some eggs."<br>"OK."<br>"Oh and while you're there, get some milk."<br>He never returned.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>15/01/2024, 12:20:04 UTC</strong></sub>
+<sub>Last updated at <strong>15/01/2024, 18:12:58 UTC</strong></sub>
