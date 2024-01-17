@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Write a list of things you are grateful for</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Jack Hammer<br>Tagline: Ruthless India Pale Ale. Hoppy. Bitter. Hoppy.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>16/01/2024, 18:12:55 UTC</strong></sub>
+<sub>Last updated at <strong>17/01/2024, 12:20:01 UTC</strong></sub>
