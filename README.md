@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Jack Hammer<br>Tagline: Ruthless India Pale Ale. Hoppy. Bitter. Hoppy.</h3>
+  <h3>Russian Doll – India Pale Ale<br>Tagline: Nesting Hop Bomb.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>17/01/2024, 12:20:01 UTC</strong></sub>
+<sub>Last updated at <strong>17/01/2024, 18:13:10 UTC</strong></sub>
