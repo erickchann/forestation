@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I've got a really good UDP joke to tell you but I don’t know if you'll get it.</h3>
+  <h3>Judge: "I sentence you to the maximum punishment..."<br>Me (thinking): "Please be death, please be death..."<br>Judge: "Learn Java!"<br>Me: "Damn."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/01/2024, 18:13:26 UTC</strong></sub>
+<sub>Last updated at <strong>20/01/2024, 12:17:42 UTC</strong></sub>
