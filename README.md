@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Organize a cluttered drawer</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>22/01/2024, 18:13:18 UTC</strong></sub>
+<sub>Last updated at <strong>23/01/2024, 12:19:58 UTC</strong></sub>
