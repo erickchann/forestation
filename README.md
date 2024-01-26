@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Go for a walk</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Raspberry Popsicle Parade<br>Tagline: Raspberry Berliner Weisse.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/01/2024, 12:17:23 UTC</strong></sub>
+<sub>Last updated at <strong>26/01/2024, 18:12:24 UTC</strong></sub>
