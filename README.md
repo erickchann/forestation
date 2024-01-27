@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Brixton Porter<br>Tagline: Paradigm-Changing Porter.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Algorithm: A word used by programmers when they don't want to explain how their code works.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/01/2024, 12:15:32 UTC</strong></sub>
+<sub>Last updated at <strong>27/01/2024, 18:10:42 UTC</strong></sub>
