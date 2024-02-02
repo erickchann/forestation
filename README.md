@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn how to french braid hair</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Oysters hate to give away their pearls because they are shellfish.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/02/2024, 12:17:24 UTC</strong></sub>
+<sub>Last updated at <strong>02/02/2024, 18:12:56 UTC</strong></sub>
