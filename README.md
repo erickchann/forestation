@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Small Batch: Imperial Pale Weizen<br>Tagline: Dry-Hopped Wheat Beer.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/02/2024, 12:18:16 UTC</strong></sub>
+<sub>Last updated at <strong>05/02/2024, 18:13:03 UTC</strong></sub>
