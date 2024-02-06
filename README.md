@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Small Batch: Imperial Pale Weizen<br>Tagline: Dry-Hopped Wheat Beer.</h3>
+  <h3>Deaf Mermaid - B-Sides<br>Tagline: Light Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/02/2024, 18:13:03 UTC</strong></sub>
+<sub>Last updated at <strong>06/02/2024, 12:17:51 UTC</strong></sub>
