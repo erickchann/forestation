@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Knock knock.<br>Who's there?<br>Recursion.<br>Recursion who?<br>Knock knock.</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>India Pale Weizen (w/ Weihenstephan)<br>Tagline: BrewDog Versus Weihenstephan.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/02/2024, 18:11:22 UTC</strong></sub>
+<sub>Last updated at <strong>07/02/2024, 12:17:34 UTC</strong></sub>
