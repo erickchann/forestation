@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Take your dog on a walk</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Debugging: Removing the needles from the haystack.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>08/02/2024, 18:12:15 UTC</strong></sub>
+<sub>Last updated at <strong>09/02/2024, 12:17:33 UTC</strong></sub>
