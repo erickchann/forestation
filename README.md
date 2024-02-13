@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Ella - IPA Is Dead<br>Tagline: Single Hop India Pale Ale.</h3>
+  <h3>Atlantic IPA Ale<br>Tagline: IPA Of Yesteryear.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/02/2024, 12:17:12 UTC</strong></sub>
+<sub>Last updated at <strong>13/02/2024, 18:13:13 UTC</strong></sub>
