@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Buy a new house decoration</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>I Wanna Be Your Dog<br>Tagline: Omnipollo X BrewDog - Barrel Aged Imperial Stout.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/02/2024, 12:18:17 UTC</strong></sub>
+<sub>Last updated at <strong>14/02/2024, 18:12:11 UTC</strong></sub>
