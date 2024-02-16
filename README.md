@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Solve a Rubik's cube</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Hello My Name Is Marianne<br>Tagline: Cassis Infused Double IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>15/02/2024, 18:13:10 UTC</strong></sub>
+<sub>Last updated at <strong>16/02/2024, 12:17:32 UTC</strong></sub>
