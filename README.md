@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>ASCII silly question, get a silly ANSI.</h3>
+  <h3>UDP is better in the COVID era since it avoids unnecessary handshakes.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/02/2024, 18:13:25 UTC</strong></sub>
+<sub>Last updated at <strong>20/02/2024, 12:17:41 UTC</strong></sub>
