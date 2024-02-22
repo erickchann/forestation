@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Do a jigsaw puzzle</h3>
+  <h3>Text a friend you haven't talked to in a long time</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>22/02/2024, 12:17:18 UTC</strong></sub>
+<sub>Last updated at <strong>22/02/2024, 18:12:39 UTC</strong></sub>
