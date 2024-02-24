@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Dog Fight (w/ Flying Dog)<br>Tagline: Rye IPA - Flying Dog Collab.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Start a book you've never gotten around to reading</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/02/2024, 12:15:54 UTC</strong></sub>
+<sub>Last updated at <strong>24/02/2024, 18:12:00 UTC</strong></sub>
