@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Start a book you've never gotten around to reading</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>AB:12<br>Tagline: Imperial Black Belgian Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/02/2024, 18:12:00 UTC</strong></sub>
+<sub>Last updated at <strong>25/02/2024, 12:16:21 UTC</strong></sub>
