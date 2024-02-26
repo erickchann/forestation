@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I have a joke about trickle down economics, but 99% of you will never get it.</h3>
+  <h3>"Knock, knock."<br>"Who's there?"<br><br>[very long pause]<br><br>"Java."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>25/02/2024, 18:11:18 UTC</strong></sub>
+<sub>Last updated at <strong>26/02/2024, 12:17:57 UTC</strong></sub>
