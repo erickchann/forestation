@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Surprise your significant other with something considerate</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Debugging is like being the detective in a crime movie where you're also the murderer at the same time.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/02/2024, 12:17:13 UTC</strong></sub>
+<sub>Last updated at <strong>27/02/2024, 18:12:59 UTC</strong></sub>
