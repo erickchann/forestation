@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Debugging is like being the detective in a crime movie where you're also the murderer at the same time.</h3>
+  <h3>A guy walks into a bar and asks for 1.4 root beers.<br>The bartender says "I'll have to charge you extra, that's a root beer float".<br>The guy says "In that case, better make it a double."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/02/2024, 18:12:59 UTC</strong></sub>
+<sub>Last updated at <strong>28/02/2024, 12:17:17 UTC</strong></sub>
