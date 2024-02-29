@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Go on a fishing trip with some friends</h3>
+  <h3>Plan a vacation you've always wanted to take</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>29/02/2024, 12:18:17 UTC</strong></sub>
+<sub>Last updated at <strong>29/02/2024, 18:13:14 UTC</strong></sub>
