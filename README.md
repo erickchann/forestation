@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Knock knock.<br>Who's there?<br>Recursion.<br>Recursion who?<br>Knock knock.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Think of a new business idea</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>02/03/2024, 12:16:08 UTC</strong></sub>
+<sub>Last updated at <strong>02/03/2024, 18:12:52 UTC</strong></sub>
