@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Debugging: Removing the needles from the haystack.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Contribute code or a monetary donation to an open-source software project</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>03/03/2024, 12:17:01 UTC</strong></sub>
+<sub>Last updated at <strong>03/03/2024, 18:11:36 UTC</strong></sub>
