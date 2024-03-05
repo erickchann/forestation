@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Semi Skimmed Occultist<br>Tagline: Oatmeal Milk Stout.</h3>
+  <h3>Kingpin<br>Tagline: 21st century lager.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>04/03/2024, 18:12:48 UTC</strong></sub>
+<sub>Last updated at <strong>05/03/2024, 12:17:59 UTC</strong></sub>
