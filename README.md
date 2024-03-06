@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Make a bucket list</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Hello My Name Is Holy Moose<br>Tagline: Nordic Berry IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/03/2024, 18:12:20 UTC</strong></sub>
+<sub>Last updated at <strong>06/03/2024, 12:18:56 UTC</strong></sub>
