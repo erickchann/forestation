@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I was struggling to figure out how lightning works, but then it struck me.</h3>
+  <h3>A horse walks into a bar.<br>"Hey", the Bartender says.<br>"Sure", the horse replies.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/03/2024, 18:13:13 UTC</strong></sub>
+<sub>Last updated at <strong>07/03/2024, 12:17:42 UTC</strong></sub>
