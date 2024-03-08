@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Born To Die<br>Tagline: Terminally Hoppy India Pale Ale.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Mow your lawn</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>07/03/2024, 18:12:38 UTC</strong></sub>
+<sub>Last updated at <strong>08/03/2024, 12:18:14 UTC</strong></sub>
