@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Restorative Beverage For Invalids And Convalescents<br>Tagline: An Extract Taken From "A Treatise on Food and Diet" By Dr Jonathan Pereira, 1843.</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>A SQL statement walks into a bar and sees two tables.<br>It approaches, and asks "may I join you?"</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/03/2024, 18:12:44 UTC</strong></sub>
+<sub>Last updated at <strong>12/03/2024, 12:17:38 UTC</strong></sub>
