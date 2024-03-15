@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Explore the nightlife of your city</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>A horse walks into a bar.<br>"Hey", the Bartender says.<br>"Sure", the horse replies.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/03/2024, 18:12:31 UTC</strong></sub>
+<sub>Last updated at <strong>15/03/2024, 12:17:35 UTC</strong></sub>
