@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Color</h3>
+  <h3>Take a class at your local community center that interests you</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>17/03/2024, 12:17:33 UTC</strong></sub>
+<sub>Last updated at <strong>17/03/2024, 18:11:17 UTC</strong></sub>
