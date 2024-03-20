@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>The generation of random numbers is too important to be left to chance.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn to write with your nondominant hand</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>20/03/2024, 12:17:49 UTC</strong></sub>
+<sub>Last updated at <strong>20/03/2024, 18:12:34 UTC</strong></sub>
