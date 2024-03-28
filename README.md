@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I have a joke about trickle down economics, but 99% of you will never get it.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn Kotlin</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/03/2024, 12:19:10 UTC</strong></sub>
+<sub>Last updated at <strong>28/03/2024, 18:12:49 UTC</strong></sub>
