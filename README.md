@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn Kotlin</h3>
+  <h3>Play a video game</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/03/2024, 18:12:49 UTC</strong></sub>
+<sub>Last updated at <strong>29/03/2024, 12:18:43 UTC</strong></sub>
