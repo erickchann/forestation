@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"Can I tell you a TCP joke?"<br>"Please tell me a TCP joke."<br>"OK, I'll tell you a TCP joke."</h3>
+  <h3>I was struggling to figure out how lightning works, but then it struck me.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>01/04/2024, 12:19:46 UTC</strong></sub>
+<sub>Last updated at <strong>03/04/2024, 12:18:28 UTC</strong></sub>
