@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I was struggling to figure out how lightning works, but then it struck me.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Volunteer at your local food pantry</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>03/04/2024, 12:18:28 UTC</strong></sub>
+<sub>Last updated at <strong>03/04/2024, 18:12:45 UTC</strong></sub>
