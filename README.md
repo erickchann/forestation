@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Two C strings walk into a bar.<br>The bartender asks "What can I get ya?"<br>The first string says "I'll have a gin and tonic."<br>The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"<br>The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."</h3>
+  <h3>Today, my son asked "Can I have a book mark?" and I burst into tears.<br>11 years old and he still doesn't know my name is Brian.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/04/2024, 12:19:01 UTC</strong></sub>
+<sub>Last updated at <strong>10/04/2024, 18:14:17 UTC</strong></sub>
