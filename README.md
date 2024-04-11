@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Today, my son asked "Can I have a book mark?" and I burst into tears.<br>11 years old and he still doesn't know my name is Brian.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Practice coding in your favorite lanaguage</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>10/04/2024, 18:14:17 UTC</strong></sub>
+<sub>Last updated at <strong>11/04/2024, 18:12:29 UTC</strong></sub>
