@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Go to the library and find an interesting book</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>ASCII silly question, get a silly ANSI.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/04/2024, 12:18:21 UTC</strong></sub>
+<sub>Last updated at <strong>12/04/2024, 18:11:05 UTC</strong></sub>
