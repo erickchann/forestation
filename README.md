@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I've got a really good UDP joke to tell you but I don’t know if you'll get it.</h3>
+  <h3>Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/04/2024, 14:39:33 UTC</strong></sub>
+<sub>Last updated at <strong>14/04/2024, 22:53:14 UTC</strong></sub>
