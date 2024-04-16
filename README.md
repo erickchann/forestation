@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"Knock, knock."<br>"Who's there?"<br><br>[very long pause]<br><br>"Java."</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Learn a new programming language</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>15/04/2024, 18:12:59 UTC</strong></sub>
+<sub>Last updated at <strong>16/04/2024, 12:18:30 UTC</strong></sub>
