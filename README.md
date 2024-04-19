@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Learn GraphQL</h3>
+  <h3>Have a photo session with some friends</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/04/2024, 18:13:15 UTC</strong></sub>
+<sub>Last updated at <strong>19/04/2024, 12:18:39 UTC</strong></sub>
