@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.</h3>
+  <h3>"Honey, go to the store and buy some eggs."<br>"OK."<br>"Oh and while you're there, get some milk."<br>He never returned.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>19/04/2024, 18:12:20 UTC</strong></sub>
+<sub>Last updated at <strong>21/04/2024, 12:18:32 UTC</strong></sub>
