@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Cook something together with someone</h3>
+  <h3>Try a food you don't like</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>21/04/2024, 18:13:28 UTC</strong></sub>
+<sub>Last updated at <strong>22/04/2024, 12:20:13 UTC</strong></sub>
