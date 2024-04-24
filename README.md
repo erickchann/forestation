@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Have a paper airplane contest with some friends</h3>
+  <h3>Paint the first thing you see</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>23/04/2024, 12:19:41 UTC</strong></sub>
+<sub>Last updated at <strong>24/04/2024, 12:22:12 UTC</strong></sub>
