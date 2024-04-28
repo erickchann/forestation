@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Pot some plants and put them around your house</h3>
+  <h3>Read a formal research paper on an interesting subject</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/04/2024, 18:12:43 UTC</strong></sub>
+<sub>Last updated at <strong>28/04/2024, 12:19:10 UTC</strong></sub>
