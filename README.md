@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Read a formal research paper on an interesting subject</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>The six stages of debugging:<br>1. That can't happen.<br>2. That doesn't happen on my machine.<br>3. That shouldn't happen.<br>4. Why does that happen?<br>5. Oh, I see.<br>6. How did that ever work?</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/04/2024, 12:19:10 UTC</strong></sub>
+<sub>Last updated at <strong>28/04/2024, 18:12:15 UTC</strong></sub>
