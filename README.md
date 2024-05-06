@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Oysters hate to give away their pearls because they are shellfish.</h3>
+  <h3>Debugging: Removing the needles from the haystack.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/05/2024, 18:12:31 UTC</strong></sub>
+<sub>Last updated at <strong>06/05/2024, 12:19:30 UTC</strong></sub>
