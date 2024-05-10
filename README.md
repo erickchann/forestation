@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Eight bytes walk into a bar.<br>The bartender asks, "Can I get you anything?"<br>"Yeah," reply the bytes.<br>"Make us a double."</h3>
+  <h3>Have a great weekend!<br>I hope your code behaves the same on Monday as it did on Friday.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/05/2024, 12:19:18 UTC</strong></sub>
+<sub>Last updated at <strong>10/05/2024, 12:19:10 UTC</strong></sub>
