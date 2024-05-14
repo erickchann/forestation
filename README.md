@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Go to the gym</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/05/2024, 12:20:23 UTC</strong></sub>
+<sub>Last updated at <strong>14/05/2024, 18:13:39 UTC</strong></sub>
