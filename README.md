@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Go to the gym</h3>
+  <h3>Make a new friend</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/05/2024, 18:13:39 UTC</strong></sub>
+<sub>Last updated at <strong>15/05/2024, 12:21:21 UTC</strong></sub>
