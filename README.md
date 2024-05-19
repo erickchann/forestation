@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Shred old documents you don't need anymore</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>How do you tell HTML from HTML5?<br>- Try it out in Internet Explorer<br>- Did it work?<br>- No?<br>- It's HTML5.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/05/2024, 12:18:37 UTC</strong></sub>
+<sub>Last updated at <strong>19/05/2024, 12:18:49 UTC</strong></sub>
