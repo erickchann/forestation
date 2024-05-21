@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I have a joke about Stack Overflow, but you would say it's a duplicate.</h3>
+  <h3>"We messed up the keming again guys."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>20/05/2024, 12:21:53 UTC</strong></sub>
+<sub>Last updated at <strong>21/05/2024, 12:19:56 UTC</strong></sub>
