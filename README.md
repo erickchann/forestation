@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A SQL statement walks into a bar and sees two tables.<br>It approaches, and asks "may I join you?"</h3>
+  <h3>I've got a really good UDP joke to tell you but I don’t know if you'll get it.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/05/2024, 18:14:28 UTC</strong></sub>
+<sub>Last updated at <strong>26/05/2024, 12:18:23 UTC</strong></sub>
