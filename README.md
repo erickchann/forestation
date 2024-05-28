@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Hey Girl,<br>Roses are #ff0000,<br>Violets are #0000ff,<br>I use hex codes,<br>But I'd use RGB for you.</h3>
+  <h3>I have a joke about trickle down economics, but 99% of you will never get it.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/05/2024, 18:14:08 UTC</strong></sub>
+<sub>Last updated at <strong>28/05/2024, 12:20:25 UTC</strong></sub>
