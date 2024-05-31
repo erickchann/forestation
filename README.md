@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Knock knock.<br>Who's there?<br>Recursion.<br>Recursion who?<br>Knock knock.</h3>
+  <h3>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>29/05/2024, 18:13:44 UTC</strong></sub>
+<sub>Last updated at <strong>31/05/2024, 12:20:17 UTC</strong></sub>
