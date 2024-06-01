@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</h3>
+  <h3>Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>31/05/2024, 12:20:17 UTC</strong></sub>
+<sub>Last updated at <strong>01/06/2024, 12:19:17 UTC</strong></sub>
