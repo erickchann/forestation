@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"</h3>
+  <h3>I have a joke about Stack Overflow, but you would say it's a duplicate.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>01/06/2024, 12:19:17 UTC</strong></sub>
+<sub>Last updated at <strong>05/06/2024, 12:20:42 UTC</strong></sub>
