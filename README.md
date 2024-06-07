@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I have a joke about Stack Overflow, but you would say it's a duplicate.</h3>
+  <h3>I've got a really good UDP joke to tell you but I don’t know if you'll get it.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/06/2024, 12:20:42 UTC</strong></sub>
+<sub>Last updated at <strong>07/06/2024, 12:22:06 UTC</strong></sub>
