@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>How do you tell HTML from HTML5?<br>- Try it out in Internet Explorer<br>- Did it work?<br>- No?<br>- It's HTML5.</h3>
+  <h3>A horse walks into a bar.<br>"Hey", the Bartender says.<br>"Sure", the horse replies.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/06/2024, 18:15:31 UTC</strong></sub>
+<sub>Last updated at <strong>15/06/2024, 18:14:40 UTC</strong></sub>
