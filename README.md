@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A horse walks into a bar.<br>"Hey", the Bartender says.<br>"Sure", the horse replies.</h3>
+  <h3>"Honey, go to the store and buy some eggs."<br>"OK."<br>"Oh and while you're there, get some milk."<br>He never returned.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>15/06/2024, 18:14:40 UTC</strong></sub>
+<sub>Last updated at <strong>16/06/2024, 12:19:35 UTC</strong></sub>
