@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A byte walks into a bar looking miserable.<br>The bartender asks it: "What's wrong buddy?"<br>"Parity error." it replies. <br>"Ah that makes sense, I thought you looked a bit off."</h3>
+  <h3>A guy walks into a bar and asks for 1.4 root beers.<br>The bartender says "I'll have to charge you extra, that's a root beer float".<br>The guy says "In that case, better make it a double."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>25/06/2024, 18:15:37 UTC</strong></sub>
+<sub>Last updated at <strong>26/06/2024, 12:22:17 UTC</strong></sub>
