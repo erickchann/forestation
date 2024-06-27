@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</h3>
+  <h3>The generation of random numbers is too important to be left to chance.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/06/2024, 12:21:07 UTC</strong></sub>
+<sub>Last updated at <strong>27/06/2024, 18:13:30 UTC</strong></sub>
