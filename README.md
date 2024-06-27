@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A guy walks into a bar and asks for 1.4 root beers.<br>The bartender says "I'll have to charge you extra, that's a root beer float".<br>The guy says "In that case, better make it a double."</h3>
+  <h3>Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/06/2024, 12:22:17 UTC</strong></sub>
+<sub>Last updated at <strong>27/06/2024, 12:21:07 UTC</strong></sub>
