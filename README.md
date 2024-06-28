@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>The generation of random numbers is too important to be left to chance.</h3>
+  <h3>A SQL statement walks into a bar and sees two tables.<br>It approaches, and asks "may I join you?"</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>27/06/2024, 18:13:30 UTC</strong></sub>
+<sub>Last updated at <strong>28/06/2024, 18:14:23 UTC</strong></sub>
