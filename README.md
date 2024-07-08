@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Four engineers get into a car. The car won't start.<br>The Mechanical engineer says "It's a broken starter".<br>The Electrical engineer says "Dead battery".<br>The Chemical engineer says "Impurities in the gasoline".<br>The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in".</h3>
+  <h3>Hey Girl,<br>Roses are #ff0000,<br>Violets are #0000ff,<br>I use hex codes,<br>But I'd use RGB for you.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/07/2024, 18:13:43 UTC</strong></sub>
+<sub>Last updated at <strong>08/07/2024, 18:15:10 UTC</strong></sub>
