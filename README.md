@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>// This line doesn't actually do anything, but the code stops working when I delete it.</h3>
+  <h3>I was struggling to figure out how lightning works, but then it struck me.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/07/2024, 12:30:10 UTC</strong></sub>
+<sub>Last updated at <strong>21/07/2024, 12:20:49 UTC</strong></sub>
