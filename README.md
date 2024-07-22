@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I was struggling to figure out how lightning works, but then it struck me.</h3>
+  <h3>I have a joke about Stack Overflow, but you would say it's a duplicate.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>21/07/2024, 12:20:49 UTC</strong></sub>
+<sub>Last updated at <strong>22/07/2024, 18:15:11 UTC</strong></sub>
