@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I have a joke about Stack Overflow, but you would say it's a duplicate.</h3>
+  <h3>Hey Girl,<br>Roses are #ff0000,<br>Violets are #0000ff,<br>I use hex codes,<br>But I'd use RGB for you.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>22/07/2024, 18:15:11 UTC</strong></sub>
+<sub>Last updated at <strong>23/07/2024, 12:21:53 UTC</strong></sub>
