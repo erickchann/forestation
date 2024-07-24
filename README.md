@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>ASCII silly question, get a silly ANSI.</h3>
+  <h3>Oysters hate to give away their pearls because they are shellfish.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/07/2024, 12:21:10 UTC</strong></sub>
+<sub>Last updated at <strong>24/07/2024, 18:15:06 UTC</strong></sub>
