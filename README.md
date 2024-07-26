@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Oysters hate to give away their pearls because they are shellfish.</h3>
+  <h3>Have a great weekend!<br>I hope your code behaves the same on Monday as it did on Friday.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>24/07/2024, 18:15:06 UTC</strong></sub>
+<sub>Last updated at <strong>26/07/2024, 12:21:03 UTC</strong></sub>
