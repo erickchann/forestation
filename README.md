@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.</h3>
+  <h3>I have a joke about Stack Overflow, but you would say it's a duplicate.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>30/07/2024, 12:21:47 UTC</strong></sub>
+<sub>Last updated at <strong>01/08/2024, 18:15:14 UTC</strong></sub>
