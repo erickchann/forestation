@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>How do you tell HTML from HTML5?<br>- Try it out in Internet Explorer<br>- Did it work?<br>- No?<br>- It's HTML5.</h3>
+  <h3>Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>03/08/2024, 12:19:50 UTC</strong></sub>
+<sub>Last updated at <strong>04/08/2024, 12:19:44 UTC</strong></sub>
