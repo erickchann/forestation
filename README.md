@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>// This line doesn't actually do anything, but the code stops working when I delete it.</h3>
+  <h3>I'm reading a book about anti-gravity. It's impossible to put down!</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/08/2024, 12:22:08 UTC</strong></sub>
+<sub>Last updated at <strong>07/08/2024, 12:22:44 UTC</strong></sub>
