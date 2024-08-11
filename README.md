@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>I have a joke about trickle down economics, but 99% of you will never get it.</h3>
+  <h3>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/08/2024, 12:20:29 UTC</strong></sub>
+<sub>Last updated at <strong>11/08/2024, 18:16:26 UTC</strong></sub>
