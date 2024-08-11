@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>How do you tell HTML from HTML5?<br>- Try it out in Internet Explorer<br>- Did it work?<br>- No?<br>- It's HTML5.</h3>
+  <h3>I have a joke about trickle down economics, but 99% of you will never get it.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/08/2024, 12:22:13 UTC</strong></sub>
+<sub>Last updated at <strong>11/08/2024, 12:20:29 UTC</strong></sub>
