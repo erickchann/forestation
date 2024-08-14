@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</h3>
+  <h3>// This line doesn't actually do anything, but the code stops working when I delete it.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>11/08/2024, 18:16:26 UTC</strong></sub>
+<sub>Last updated at <strong>14/08/2024, 12:22:34 UTC</strong></sub>
