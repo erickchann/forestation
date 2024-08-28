@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>"Can I tell you a TCP joke?"<br>"Please tell me a TCP joke."<br>"OK, I'll tell you a TCP joke."</h3>
+  <h3>The six stages of debugging:<br>1. That can't happen.<br>2. That doesn't happen on my machine.<br>3. That shouldn't happen.<br>4. Why does that happen?<br>5. Oh, I see.<br>6. How did that ever work?</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>21/08/2024, 18:15:45 UTC</strong></sub>
+<sub>Last updated at <strong>28/08/2024, 12:23:56 UTC</strong></sub>
