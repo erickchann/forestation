@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>The six stages of debugging:<br>1. That can't happen.<br>2. That doesn't happen on my machine.<br>3. That shouldn't happen.<br>4. Why does that happen?<br>5. Oh, I see.<br>6. How did that ever work?</h3>
+  <h3>// This line doesn't actually do anything, but the code stops working when I delete it.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>28/08/2024, 12:23:56 UTC</strong></sub>
+<sub>Last updated at <strong>01/09/2024, 12:21:17 UTC</strong></sub>
