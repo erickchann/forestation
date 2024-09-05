@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Hey Girl,<br>Roses are #ff0000,<br>Violets are #0000ff,<br>I use hex codes,<br>But I'd use RGB for you.</h3>
+  <h3>There are only 10 kinds of people in this world: those who know binary and those who don't.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>04/09/2024, 18:14:54 UTC</strong></sub>
+<sub>Last updated at <strong>05/09/2024, 12:23:39 UTC</strong></sub>
