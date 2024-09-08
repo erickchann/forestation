@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Two C strings walk into a bar.<br>The bartender asks "What can I get ya?"<br>The first string says "I'll have a gin and tonic."<br>The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"<br>The first string apologizes, "You'll have to excuse my friend, he's not null-terminated."</h3>
+  <h3>UDP is better in the COVID era since it avoids unnecessary handshakes.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>08/09/2024, 12:21:18 UTC</strong></sub>
+<sub>Last updated at <strong>08/09/2024, 18:16:04 UTC</strong></sub>
