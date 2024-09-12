@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>Two fish in a tank. One turns to the other and says, "Do you know how to drive this thing?"</h3>
+  <h3>"Can I tell you a TCP joke?"<br>"Please tell me a TCP joke."<br>"OK, I'll tell you a TCP joke."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>09/09/2024, 18:16:13 UTC</strong></sub>
+<sub>Last updated at <strong>12/09/2024, 18:17:45 UTC</strong></sub>
